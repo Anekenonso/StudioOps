@@ -1,1 +1,17 @@
 StudioOps_V1_Technical_Build_Spec.md
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Editors
+.vscode/
+.DS_Store
+
+# OS
+Thumbs.db
