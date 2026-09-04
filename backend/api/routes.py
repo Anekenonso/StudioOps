@@ -36,6 +36,15 @@ async def start_research(brief: ProjectBrief):
     tasks = [run_query(q) for q in queries]
     done = await asyncio.gather(*tasks)
 
+    # Synthesize a conservative report from collected evidence
+    try:
+        from backend.agent.synthesizer import synthesize_report
+
+        report = synthesize_report(brief, done)
+        report_data = report.dict()
+    except Exception as e:
+        report_data = {"error": f"synthesis failed: {e}"}
+
     return {
         "status": "completed",
         "project": {
@@ -46,4 +55,5 @@ async def start_research(brief: ProjectBrief):
         },
         "plan": {"queries": queries},
         "evidence": done,
+        "report": report_data,
     }
