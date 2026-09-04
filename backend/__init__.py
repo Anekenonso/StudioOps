@@ -1,1 +1,0 @@
-"""StudioOps backend package."""
