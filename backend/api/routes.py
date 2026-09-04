@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 from backend.models.brief import ProjectBrief
 from backend.tools.parallel_client import ParallelClient
-from backend.agent.planner import create_research_queries
+from backend.integrations.gemini_client import GeminiClient
 import os
 import asyncio
 
@@ -14,8 +14,11 @@ async def start_research(brief: ProjectBrief):
     """Accept a production brief, create queries, run Parallel searches,
     and return normalized evidence per query.
     """
-    # Create simple research plan (queries)
-    queries = create_research_queries(brief)
+    # Use GeminiClient to create a research plan (falls back to local planner)
+    gemini = GeminiClient()
+    plan = await gemini.plan(brief)
+    # plan expected shape: {"research_tasks": [{"id":..., "query": ...}, ...]}
+    queries = [t.get("query") for t in plan.get("research_tasks", [])]
 
     # Instantiate Parallel client
     base_url = os.getenv("PARALLEL_BASE_URL")
@@ -36,12 +39,11 @@ async def start_research(brief: ProjectBrief):
     tasks = [run_query(q) for q in queries]
     done = await asyncio.gather(*tasks)
 
-    # Synthesize a conservative report from collected evidence
+    # Use GeminiClient to synthesize the final report (falls back to local synthesizer)
     try:
-        from backend.agent.synthesizer import synthesize_report
-
-        report = synthesize_report(brief, done)
-        report_data = report.dict()
+        report_obj = await gemini.synthesize(brief, done)
+        # If the synthesizer returned a Pydantic model, convert to dict
+        report_data = report_obj.dict() if hasattr(report_obj, "dict") else report_obj
     except Exception as e:
         report_data = {"error": f"synthesis failed: {e}"}
 
