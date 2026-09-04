@@ -1,0 +1,977 @@
+{
+  "status": "completed",
+  "project": {
+    "title": "StudioOps research example",
+    "format": "report",
+    "genre": "business",
+    "geography": "global"
+  },
+  "plan": {
+    "queries": [
+      "recent business films and series in global",
+      "business audience trends in global",
+      "production companies in global that produce business",
+      "distribution platforms and recent business releases in global"
+    ]
+  },
+  "evidence": [
+    {
+      "query": "recent business films and series in global",
+      "results": [
+        {
+          "title": "Globalpictures",
+          "url": "https://platform.tracxn.com/a/d/company/69a01e44c975946c875ae52d/globalpictures",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://platform.tracxn.com/a/d/company/69a01e44c975946c875ae52d/globalpictures?utm_source=parallel&utm_medium=ai#a:about",
+            "title": "Globalpictures",
+            "publish_date": null,
+            "excerpts": [
+              "Name: Globalpictures\nWebsite Url: https://globalpictures.id\nShort Description: Provider of film production and content distribution for media platforms\nDetailed Description: Provider of film production and content distribution for media platforms. Operations include the creation of motion pictures and series across various genres."
+            ]
+          }
+        },
+        {
+          "title": "50 Incredible Business Movies & Shows [Of All Time] - DigitalDefynd Education",
+          "url": "https://digitaldefynd.com/IQ/business-movies-shows",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://digitaldefynd.com/IQ/business-movies-shows/",
+            "title": "50 Incredible Business Movies & Shows [Of All Time] - DigitalDefynd Education",
+            "publish_date": "2025-12-27",
+            "excerpts": [
+              "# 50 Incredible Business Movies & Shows [Of All Time]\n## ****50 Incredible Business Movies & Shows**** ****[Of All Time]****\n| 13 | Suits (2011–2019) | USA Network/Netflix | Large international fanbase, spurred interest in corporate law dramas | Popular series, recognized with various award nominations |\n\n...\n\n| 26 | Network (1976) | Amazon Prime | Legendary satire of TV news & corporate control resonated globally | 4 Oscars, including Best Actor/Actress, revered classic |\n\n...\n\n| 31 | Halt and Catch Fire (2014–2017) | AMC, Netflix | Cult following for 1980s PC revolution depiction, revered by tech enthusiasts | Critical acclaim grew over time, with strong series reviews |\n\n...\n\n| 38 | Scam 1992: The Harshad Mehta Story (2020) | SonyLIV | Huge success in India & internationally among finance enthusiasts | Widespread critical acclaim, top-rated Indian series on IMDb |\n\n...\n\n| 40 | Itaewon Class (2020) | Netflix | Global popularity on Netflix, inspiring an entrepreneurial storyline | High domestic ratings, strong international fan following |\n| 41 | Start-Up (2020) | Netflix | Worldwide appeal for showcasing startup incubator life, youth entrepreneurship | Solid viewership & streaming popularity, positive critical reception |\n\n...\n\n### ****3. Succession (2018–2023)****\n****Plot:**** Succession is an Emmy-winning drama series centered on the combative Roy family, owners of the global media conglomerate Waystar RoyCo.\n\n...\n\n### ****22. Inside Job (2010)****\nJumping to the 2000s, the documentary then dissects the proliferation of complex financial instruments – derivatives, mortgage-backed securities (MBS), collateralized debt obligations (CDOs) – that allowed banks and investment firms to package and sell subprime home loans globally, spreading risk throughout"
+            ]
+          }
+        },
+        {
+          "title": "business",
+          "url": "https://www.imdb.com/search/title",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.imdb.com/search/title/?keywords=business",
+            "title": "business",
+            "publish_date": null,
+            "excerpts": [
+              "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+            ]
+          }
+        },
+        {
+          "title": "27 Best Documentaries for Entrepreneurs in 2026",
+          "url": "https://www.99signals.com/best-documentaries-entrepreneurs",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.99signals.com/best-documentaries-entrepreneurs/",
+            "title": "27 Best Documentaries for Entrepreneurs in 2026",
+            "publish_date": null,
+            "excerpts": [
+              "There’s plenty of cautionary tales for entrepreneurs in this must-watch business documentary series. IMDB Rating: 8.1/10 (9,000+ user ratings) Rotten Tomatoes Score: 100% Where to Watch: Netflix ... This documentary offers a classic lesson on what happens when a company values financial gain over safety of its customers, and creates a toxic workplace which stifles innovation. Directed by Rory Kennedy, whose documentaries typically revolve around social and political issues, Downfall examines two major airline crashes involving Boeing planes and how Boeing’s negligence and culture of concealment made these tragedies unpreventable."
+            ]
+          }
+        },
+        {
+          "title": "13 Best Business Documentaries To Watch In 2026",
+          "url": "https://rajivtalreja.com/blog/business-documentaries",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://rajivtalreja.com/blog/business-documentaries/",
+            "title": "13 Best Business Documentaries To Watch In 2026",
+            "publish_date": null,
+            "excerpts": [
+              "And because 2026 will demand sharper thinking, faster decisions, and stronger business ethics from entrepreneurs, I’ve handpicked the 13 best business documentaries that every MSME business owner should watch this year. Some are powerful business ethics documentaries. Some are legendary business-related documentaries about failure, resilience, or comeback stories. ... Let’s dive into the top business documentaries to watch in 2026."
+            ]
+          }
+        },
+        {
+          "title": "25 Best Business Movies for Entrepreneurs: Top Films About Startups & Money - Hustle Inspires Hustle ™",
+          "url": "https://www.hustleinspireshustle.com/blog/list-of-the-best-business-movies",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.hustleinspireshustle.com/blog/list-of-the-best-business-movies",
+            "title": "25 Best Business Movies for Entrepreneurs: Top Films About Startups & Money - Hustle Inspires Hustle ™",
+            "publish_date": "2026-08-05",
+            "excerpts": [
+              "# 25 Best Business Movies for Entrepreneurs: Top Films About Startups & Money\n## **The 25 Best Business Movies to Watch Now (Founder’s Shortlist)**\n### **3) Moneyball (2011) - Data-Driven Leadership & Culture Change**\n**Category:** data-driven strategy, business management movies\nBest business movie about management? The answer: Moneyball.\n\n...\n\n### **4) The Wolf of Wall Street (2013) - Sales Culture & Ethical Boundaries**\nMartin Scorsese’s frenetic film follows Jordan Belfort’s pump‑and‑dump stock‑selling scheme. It’s a masterclass in sales energy and training systems, paired with a loud warning about compliance risk and toxic incentives. Watch for the mechanics, not the chaos.\n\n...\n\n### **16) The Aviator (2004) Ambition, Capital, and Operational Risk**\nMartin Scorsese chronicles the life of aviation pioneer and film producer Howard Hughes. It shows how massive ambition attracts capital, then tests your controls.\n\n...\n\n### **19) Enron: The Smartest Guys in the Room (2005) Governance and Incentive Collapse**\n**Category:** corporate governance, documentary, corporate fraud\n\n...\n\n## **Quick Picks by Scenario (Voice Search Friendly)**\n**Founder Biopics & Startup Films:** The Social Network, Moneyball, Steve Jobs, and Pirates of Silicon Valley highlight innovation, product launches, and disruptive thinking.\n4.\n\n...\n\n## **Frequently Asked Questions (FAQs)**\n### **What are the best business movies to start with?**\nStart with The Social Network, The Big Short, and Moneyball, three standout business movies covering startup execution, market incentives, and data-driven management.\n\n...\n\n### **Are there recent business movies worth watching?**\nNewer titles continue to explore modern founder journeys and shifting tech landscapes. Keep an eye on Swiped, the Whitney Wolfe Herd biopic, alongside emerging films tied to startup culture and innovation cycles.\nRecent business movies often reflect today’s leadership challenges, platform disruption, and evolving expectations around growth."
+            ]
+          }
+        },
+        {
+          "title": "68 movies and series for entrepreneurs » Casbeg",
+          "url": "https://casbeg.com/blog/movies-and-series-for-entrepreneurs",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://casbeg.com/blog/movies-and-series-for-entrepreneurs/",
+            "title": "68 movies and series for entrepreneurs » Casbeg",
+            "publish_date": "2025-02-05",
+            "excerpts": [
+              "The film features conversations with him, as well as with his closest friends and collaborators. Trump: The American Dream – 2017, 64 min Friends, collaborators, and critics talk about the former U.S. president and successful businessman. Madoff: Made Off with America – 2016, 240 min (Miniseries) This is the story of the creator of what was, until recently, the largest Ponzi scheme in Wall Street’s history, which defrauded around 13,500 individual investors and organizations."
+            ]
+          }
+        },
+        {
+          "title": "Business Movies and Documentaries – The Ultimate List - Knowledge Matters - knowledgematters.com",
+          "url": "https://www.knowledgematters.com/blog/business-movies-and-documentaries-the-ultimate-list",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.knowledgematters.com/blog/business-movies-and-documentaries-the-ultimate-list/",
+            "title": "Business Movies and Documentaries – The Ultimate List - Knowledge Matters - knowledgematters.com",
+            "publish_date": "2024-05-22",
+            "excerpts": [
+              "[Home](https://www.knowledgematters.com \"Home\") › Business Movies and Documentaries – The Ultimate List\n\n...\n\n# Business Movies and Documentaries – The Ultimate List\nDirector Anat Baron takes you on a no-holds-barred exploration of the U.S. beer industry that ultimately reveals the truth behind the label of your favorite beer.\n\n...\n\n[Brick By Brick: Inside Lego (documentary)](https://www.bloomberg.com/news/videos/b/4a56e664-4427-49fc-82fb-2d5e4a6f4502)\n\n...\n\nThis documentary about the Enron corporation examines its faulty and corrupt business practices, and how they led to its fall.\n\n...\n\n[Flash of Genius](https://en.wikipedia.org/wiki/Flash_of_Genius_(film)) is a 2008 film that focuses on Robert Kearns and his legal battle against the Ford Motor Company when they developed an intermittent windshield wiper based on ideas the inventor had patented.\n\n...\n\nThe GENERATION STARTUP documentary takes viewers to the front lines of entrepreneurship in America, capturing the struggles and triumphs of six recent college graduates who put everything on the line to build startups in Detroit.\n\n...\n\nThis [theatrical biopic](https://en.wikipedia.org/wiki/Steve_Jobs_(film)) features Michael Fassbender as Steve Jobs, the legendary business leader with a fiery temper. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.\n\n...\n\nThe Big Short is a 2015 film, based on the 2010 book The Big Short: Inside the Doomsday Machine by Michael Lewis about the financial crisis of 2007–2008 which was triggered by the United States housing bubble.[4]\n\n...\n\n[The Pursuity of Happyness](http://www.imdb.com/title/tt0454921/?ref_=nv_sr_1)\n[The Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness) is an inspiring film based on entrepreneur and salesman Chris Gardner’s nearly one-year struggle being homeless.\n\n...\n\n[Too Big To Fail](http://www.imdb.com/title/tt1742683/?ref_=nv_sr_1)\nBased on Andrew Ross Sorkin’s nonfiction book, Too Big To Fail made-for-HBO movie about the early days of the financial crisis. Too Big to Fail earned 11 Emmy nominations.\n\n...\n\nTucker: The Man and His Dream is a 1988 American biographical comedy-drama film directed by Francis Ford Coppola and starring Jeff Bridges.\n\n...\n\nThis [documentary which aired on PBS](http://www.pbs.org/wgbh/americanexperience/films/walt-disney/) in the U.S."
+            ]
+          }
+        },
+        {
+          "title": "New Buday TLP Documentary Series Begins to Dissect the World's Most Influential Management Concepts – Buday Thought Leadership Partners",
+          "url": "http://budaytlp.com/2026/07/27/new-buday-tlp-documentary-series-begins-to-dissect-the-worlds-most-influential-management-concepts",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "http://budaytlp.com/2026/07/27/new-buday-tlp-documentary-series-begins-to-dissect-the-worlds-most-influential-management-concepts",
+            "title": "New Buday TLP Documentary Series Begins to Dissect the World's Most Influential Management Concepts – Buday Thought Leadership Partners",
+            "publish_date": null,
+            "excerpts": [
+              "New Buday TLP Documentary Series Begins to Dissect the World's Most Influential Management Concepts HOPKINTON, MASS., July 28, 2026 – Buday Thought Leadership Partners today unveiled the first episode of its new \"Inside the Game Changers\" documentary series, which examines game-changing management concepts. [Episode 1](https://youtu.be/_UUG_cgnPVU) explores the most influential management idea of the 1990s: business reengineering. The reengineering concept emerged after extensive case study research by Dr. Michael Hammer and the consultancy CSC Index in the late 1980s on how dozens of companies gained competitive advantage from the information technology of that day. ... \"The Making of Business Reengineering\" was developed over the last six months by Buday TLP CEO Bob Buday and his son John Buday, a video and podcast producer and editor. BudayTLP is a thought leadership strategy and training firm. The documentary dives into the research, development, marketing and impact of reengineering. Its 41 minutes include interviews with five key players: reengineering, business analytics and AI guru Tom Davenport; former CSC Index CEO James Champy; former Index CMO Tom Waite; Brad Power, an Index reengineering consultant who worked closely with Hammer; and Susan Falzon, a researcher in the PRISM research program that Hammer and Index operated. \"Inside the Game Changers\" is the first documentary series to dissect how highly popular management ideas were developed and gained traction. Our target audience includes organizations that attract clients through highly differentiated expertise: consulting, IT services, law, accounting, venture capital, private equity, investment banking, wealth management and other sectors. ... It should also be of high interest to B2B executives who are passionate about creating differentiated expertise: CEOs, heads of service innovation, chief strategy officers, CMOs, as well as industry, practice and regional leaders. \"If you believe thought leadership research and marketing are critical to your company's success, our documentaries will let you hear from people who created and marketed some of the world's most influential management ideas,\" said Bob ..."
+            ]
+          }
+        },
+        {
+          "title": "Top 10 Business Movies to Inspire Entrepreneurs, on Netflix",
+          "url": "https://autogrowthacademy.com/business/business-movies-netflix",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://autogrowthacademy.com/business/business-movies-netflix/",
+            "title": "Top 10 Business Movies to Inspire Entrepreneurs, on Netflix",
+            "publish_date": null,
+            "excerpts": [
+              "The film follows Dutch video game designer Henk Rogers as he discovers Tetris and navigates the complex legal battles and geopolitical tensions during the Cold War to secure the game’s worldwide rights. With its mix of corporate intrigue, Soviet politics, and relentless determination, “Tetris” showcases the fascinating story behind one of the most popular and enduring video games in history. The Playlist is a gripping series that chronicles the rise of Spotify, the music streaming service that revolutionized the industry."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "query": "business audience trends in global",
+      "results": [
+        {
+          "title": "Audienceglobal",
+          "url": "https://platform.tracxn.com/a/d/company/58c18a6ee4b057a3f2ec8814/audienceglobal",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://platform.tracxn.com/a/d/company/58c18a6ee4b057a3f2ec8814/audienceglobal?utm_source=parallel&utm_medium=ai#a:about",
+            "title": "Audienceglobal",
+            "publish_date": null,
+            "excerpts": [
+              "The business facilitates domain transfers to registrar accounts after purchase. It provides options for payment plans and domain management tools.\nStage: Unfunded\nCountries Count: 0\nPrimary Sector: Business Services\nPrimary Subsector: Language Services\nSubsidiary Count: 0\nEmployee Count Official: 2\nAcquisitions As Target Count: 0\nAcquisitions As Acquirer Count: 0\nBoard Member Count: 0\nLinkedin Url: https://linkedin.com/company/audience-global\nPatent Count: 0\nTrademark Count: 0\nLoan Count: 0\nActive Loan Count: 0"
+            ]
+          }
+        },
+        {
+          "title": "global audience - Reports, Statistics & Marketing Trends | EMARKETER",
+          "url": "https://www.emarketer.com/topics/category/global%20audience",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.emarketer.com/topics/category/global%20audience",
+            "title": "global audience - Reports, Statistics & Marketing Trends | EMARKETER",
+            "publish_date": null,
+            "excerpts": [
+              "# Global audience Trends & Statistics\nEMARKETER offers market research, trends and statistics for a variety of topics and industries. Here you will find a collection of reports, articles and other resources for **Global audience**\n\n...\n\nWorld Cup fuels ad demand: Record Fox audiences reaffirm live sports’ value, but priced-out brands can find cheaper ways to join the action."
+            ]
+          }
+        },
+        {
+          "title": "Top Global Business Trends to Watch in 2026 | CEIBS Europe",
+          "url": "https://europe.ceibs.edu/article/global-business-trends",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://europe.ceibs.edu/article/global-business-trends",
+            "title": "Top Global Business Trends to Watch in 2026 | CEIBS Europe",
+            "publish_date": null,
+            "excerpts": [
+              "Global business trends in 2026 reflect a shift toward <strong>AI-led operations, data-informed decision making, supply chain restructuring, sustainability requirements, digital integration, evolving workforce expectations, and new trade corridors</strong>."
+            ]
+          }
+        },
+        {
+          "title": "Audience Intelligence Market Size, Share Report, 2026-2033",
+          "url": "https://www.grandviewresearch.com/industry-analysis/audience-intelligence-market-report",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.grandviewresearch.com/industry-analysis/audience-intelligence-market-report",
+            "title": "Audience Intelligence Market Size, Share Report, 2026-2033",
+            "publish_date": null,
+            "excerpts": [
+              "The global audience intelligence market size was valued at USD 5.5 billion in 2025 and is <strong>projected to grow from USD 6.4 billion in 2026 to USD 15.5 billion by 2033, at a CAGR of 13.6% from 2026 to 2033</strong>."
+            ]
+          }
+        },
+        {
+          "title": "Business and technology trends for 2026 | IBM",
+          "url": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026",
+            "title": "Business and technology trends for 2026 | IBM",
+            "publish_date": "2026-05-30",
+            "excerpts": [
+              "[Subscribe Subscribe](https://www.ibm.com/thought-leadership/institute-business-value/en-us/newsletters)\n1. Home\n2. CEO/Strategy and management\n3. 5 trends for 2026\n\n# 5 trends for 2026\nWhat are the top business and technology trends executives should watch in 2026?\n\n...\n\n## Report additional content on the left\n### Bookmark, share and additional content\n[Artificial intelligence (AI) consulting services (will open in a new window) ### Artificial intelligence (AI) consulting services Leading the way in generative AI with over 75K trained consultants.](https://www.ibm.com/consulting/artificial-intelligence)\n[IBM Watson to watsonx (will open in a new window) ### IBM Watson to watsonx See how IBM Watson has advanced enterprise AI.](https://www.ibm.com/watson)\n[IBM Quantum Computing (will open in a new window) ### IBM Quantum Computing Bringing useful quantum computing to the world](https://www.ibm.com/quantum)\nHow can IBM help you?\n[Artificial intelligence (AI) consulting services (will open in a new window) ### Artificial intelligence (AI) consulting services Leading the way in generative AI with over 75K trained consultants.](https://www.ibm.com/consulting/artificial-intelligence)\n\n...\n\n2025 CEO Study: 5 mindshifts to supercharge business growth(will open in a new tab) Translations available #### 2025 CEO Study: 5 mindshifts to supercharge business growth CEOs are under pressure to turn turbulence into opportunity.\nActivate five mindshifts to create clarity in crisis—and supercharge your organization’s growth with AI. Bookmark this report\n\n...\n\nThe 2025 CDO Study: The AI multiplier effect Translations available #### The 2025 CDO Study: The AI multiplier effect Why do some Chief Data Officers (CDOs) see greater success than others? Learn what sets the CDOs who deliver higher ROI on AI and data investments apart. Bookmark this report\nOrchestrating agentic AI for intelligent business operations - French(will open in a new tab) #### Orchestrating agentic AI for intelligent business operations - French Learn how agentic AI is set to extend automation of business operations, elevating the workforce and expediting outcomes."
+            ]
+          }
+        },
+        {
+          "title": "Five Global Trends in Business and Society in 2026 | INSEAD Knowledge",
+          "url": "https://knowledge.insead.edu/responsibility/five-global-trends-business-and-society-2026",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://knowledge.insead.edu/responsibility/five-global-trends-business-and-society-2026",
+            "title": "Five Global Trends in Business and Society in 2026 | INSEAD Knowledge",
+            "publish_date": null,
+            "excerpts": [
+              "Although these trends aren’t new, they deserve continued attention. The Edelman report revealed that high- and low-income populations are living in “opposing institutional realities”. High-income respondents, for instance, are more likely to find governments, non-governmental organisations (NGOs), media and businesses to be ethical than low-income respondents. This divide is hugely consequential because it impacts several other global risk factors."
+            ]
+          }
+        },
+        {
+          "title": "26 Trends for 26: Global Business Trends Report 2026 - Peter Fisk",
+          "url": "https://www.peterfisk.com/vault-entry/26-trends-for-2026",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.peterfisk.com/vault-entry/26-trends-for-2026/",
+            "title": "26 Trends for 26: Global Business Trends Report 2026 - Peter Fisk",
+            "publish_date": "2025-12-18",
+            "excerpts": [
+              "# 26 Trends for 26: Global Business Trends Report 2026\nHere is my Global Business Trends Report 2026 for you to download … a curation of the 26 most impactful business trends that will shape markets, define industries, influence customers, and accelerate or threaten growth.\nThey span consumer culture, technology, business models, leadership, economics, marketing and brand behaviour.\n[Download the file for 26 Trends for 26: Global Business Trends Report 2026](https://www.peterfisk.com/wp-content/uploads/2025/12/26-Trends-for-2026-Global-Buisiness-Trends-Report-2026-by-Peter-Fisk-2.pdf \"Download the file for 26 Trends for 26: Global Business Trends Report 2026\")\n\n...\n\nStarbucks Japan unveils new Soupuccino … a “fluffy cappuccino-style soup … fragrant black truffle, with mushrooms including porcini for depth, and roasted bacon and vegetable bouillon for richness”: https://japantoday.com/category/features/food/starbucks-japan-unveils-the-new-soupuccino\n\n...\n\nReinventing Ecosystems ... what a great two days, hosting the Future Book Forum 2025, and working with Julian Kawohl (HTW Berlin), Dalia Ibrahim (CEO of Nahdet Misr, Cairo), and Jesus Badenas (CEO of Planeta Books, Madrid): https://lnkd.in/ejstb6YG\n[Image for the Tweet beginning: Reinventing Ecosystems ... what a Twitter feed image.](https://www.peterfisk.com/wp-content/uploads/sb-twitter-feed-images/1988995463249350893-0-800.jpg)\n\n...\n\nFuture Book Forum 2025 … Reinventing Publishing Ecosystems … in a world of dramatic change, where technology disrupts and new consumer agendas emerge … how can we transform strategies, business models and value equations, to deliver business results:\nhttps://www.peterfisk.com/event/fbf25/\n\n...\n\nLoad More\n[Next event: Reinventing Onward Travel](https://www.peterfisk.com/event/reinventing-onward-travel/)\n[Next event: “Future Makers” … Leadership of NTT Data](https://www.peterfisk.com/event/ntt-europe-future-makers/)\n[Next event: “Changing World, Leading Change” with Sompo, Japan](https://www.peterfisk.com/event/leading-the-future-with-sompo-japan/)\n[Next event: “Changing World, Leading Change” with Sompo, Japan, Part 2](https://www.peterfisk.com/event/changing-world-leading-change-with-sompo-japan-part-2/)"
+            ]
+          }
+        },
+        {
+          "title": "6 Business trends for 2026",
+          "url": "https://www.forbesindia.com/article/thought-leadership/iese-business-school/6-business-trends-for-2026/2990223/1",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.forbesindia.com/article/thought-leadership/iese-business-school/6-business-trends-for-2026/2990223/1",
+            "title": "6 Business trends for 2026",
+            "publish_date": "2026-01-09",
+            "excerpts": [
+              "# 6 Business trends for 2026\n## Geopolitics and artificial intelligence will shape many of the top global business trends in 2026.\nThe global economy will continue to expand in 2026 but on shakier grounds. Artificial intelligence (AI) may gain depth. Talent will reflect geopolitical and technological shifts.\nSustainability will advance while becoming increasingly politicized. And sports may become a new cultural battleground.\n\n...\n\n## 1. Economic growth likely to continue\nDespite pockets of “degrowth” sentiment, the world economy is likely to continue being the strong growth engine it has been for the past 70 years, noted Martin Wolf of the Financial Times in a recent IESE session. The IMF forecasts global GDP expansion of 3.1% in 2026.\n\n...\n\n## 4. Talent adapts to geopolitical and tech shifts\n2026 may also be the year in which AI begins to reshape how companies are organized, with consequences for knowledge jobs, especially for entry-level positions. Thus far, AI adoption hasn’t made a dent in aggregate job creation, but there are indications that may change in 2026.\nResearch is beginning to reflect that starting wages are declining in new positions in AI-exposed industries; since the launch of ChatGPT , they dropped on average 4.5%, with junior wages falling by 6.3% while salaries for senior positions remained stable or even increased.\n\n...\n\nExpect to see progress happen through smaller collectives, with a new networking-and-empowerment model called “tribes,” launched by female leaders in Africa and the diaspora, set to consolidate, ripple outward and grow in 2026.\n\n...\n\n## 5. Sustainability advances under the radar\nDespite its questionable environmental track record, China will continue to dominate green tech. In the U.S., companies will rush to start or complete green projects before Biden-era tax credits expire in 2026, which could potentially result in a surge in renewables, Jennifer Granholm, former U.S.\n\n...\n\nExpect to see a loosening of EU environmental regulations in 2026, with the Carbon Border Adjustment Mechanism (CBAM) delayed or watered down.\nA major piece of legislation to watch out for in 2026 is the EU Circular Economy Act, which for Anna Saez de Tejada and Fabrizio Ferraro represents “a historic opportunity to transition to more environmentally sound models of production and consumption” and also aligns with Europe’s goal of"
+            ]
+          }
+        },
+        {
+          "title": "Audience Analytics Market Size, Share | Industry Report 2030",
+          "url": "https://www.grandviewresearch.com/industry-analysis/audience-analytics-market-report",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.grandviewresearch.com/industry-analysis/audience-analytics-market-report",
+            "title": "Audience Analytics Market Size, Share | Industry Report 2030",
+            "publish_date": null,
+            "excerpts": [
+              "This collaboration has led to innovations like Marve for AI-driven audience segmentation and Maestro for customer journey orchestration, helping businesses create personalized marketing campaigns more efficiently. This report offers revenue growth forecasts at the global, regional, and country levels and provides an analysis of the latest industry trends in each of the sub-segments from 2018 to 2030."
+            ]
+          }
+        },
+        {
+          "title": "Global Business Trends 2026: What Entrepreneurs Need to Watch Now - Success Knocks | The Business Magazine",
+          "url": "https://successknocks.com/global-business-trends-2026",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://successknocks.com/global-business-trends-2026/",
+            "title": "Global Business Trends 2026: What Entrepreneurs Need to Watch Now - Success Knocks | The Business Magazine",
+            "publish_date": "2026-08-11",
+            "excerpts": [
+              "# Global Business Trends 2026: What Entrepreneurs Need to Watch Now\nGlobal Business Trends 2026 are shaping up to reward businesses that move fast, stay clear on their value, and keep a close eye on where demand is shifting. If you run a company, you do not need to predict the future perfectly.\n\n...\n\nGlobal Business Trends 2026 point to a year where AI-led operations, supply chain changes, sustainability pressure, and new trade corridors all matter more than ever.[1][2] In this article, we’re going to be taking a look at Global Business Trends 2026, and how you can use\n\n...\n\n## AI Is Moving From Experiment to Everyday Use\nOne of the biggest Global Business Trends 2026 is that AI is no longer a side project. It is becoming part of daily business work, from customer service and marketing to forecasting and decision-making.[1][3]\nFor you, that means the real question is no longer whether to use AI. The better question is where it saves time, improves quality, or helps you sell more. Businesses that use AI well will likely move faster than those still testing small pilots.\n\n...\n\n## Supply Chains Are Becoming a Strategy Issue\nAnother major part of Global Business Trends 2026 is supply chain restructuring. Companies are rethinking where they buy, build, and ship because of geopolitical tension, tariff pressure, and the push for more resilient supply routes.[1][4]\n\n...\n\n## Sustainability Is Now Part of the Sales Conversation\nGlobal Business Trends 2026 also show that sustainability is no longer just a brand message. It is increasingly tied to customer expectations, financing, regulation, and corporate buying decisions.[2][5]\n\n...\n\n## The Workforce Is Changing Fast\nA fourth theme in Global Business Trends 2026 is the shift in workforce expectations. Businesses are dealing with changing attitudes about flexibility, skills, productivity, and what good management looks like.[2][6]\n\n...\n\n## Where the Smart Money Is Looking\nWhen we look at Global Business Trends 2026, it is also clear that money is flowing toward certain sectors faster than others. CEIBS notes growing strength in technology, clean energy, financial services, healthcare, advanced manufacturing, and logistics.[1]"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "query": "production companies in global that produce business",
+      "results": [
+        {
+          "title": "TPP Global Productions",
+          "url": "https://platform.tracxn.com/a/d/company/647e3d33dedf703e65f963c3/tpp%20global%20productions",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://platform.tracxn.com/a/d/company/647e3d33dedf703e65f963c3/tpp%20global%20productions?utm_source=parallel&utm_medium=ai#a:about",
+            "title": "TPP Global Productions",
+            "publish_date": null,
+            "excerpts": [
+              "Name: TPP Global Productions\nWebsite Url: https://www.tppglobalproductions.com/\nShort Description: Provider of global content and video production and post services\nDetailed Description: Provider of global content and video production and post services. They partner with clients on ideation, casting, and production."
+            ]
+          }
+        },
+        {
+          "title": "Best Global Production Companies | Good Ads Matter",
+          "url": "https://www.goodadsmatter.com/global-production-companies",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.goodadsmatter.com/global-production-companies",
+            "title": "Best Global Production Companies | Good Ads Matter",
+            "publish_date": null,
+            "excerpts": [
+              "# GLOBAL PRODUCTION COMPANIES\nFrom brainstorming sessions with clients to scouting locations, casting actors, designing sets, capturing footage, and editing the final product, production companies handle every aspect of the production process with unparalleled skill and expertise.\n\n...\n\nBrowse through our directory featuring the best producers in India who have expertise in overseeing the entire production process of commercials or advertisements, right from the pre-production stage to post-production.\n\n...\n\nNote: All images and information used are from the public domain. For any changes, mail us at [contact@purpose.org.in](mailto:contact@purpose.org.in) .\n​\nP.S. - To keep our directory unbiased, Purpose Studios or anyone working at the company, has been excluded from the list."
+            ]
+          }
+        },
+        {
+          "title": "International Business Companies List -Buy at $199 -BizProspex",
+          "url": "https://bizprospex.com/product/international-business-companies-list",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://bizprospex.com/product/international-business-companies-list/",
+            "title": "International Business Companies List -Buy at $199 -BizProspex",
+            "publish_date": "2026-08-18",
+            "excerpts": [
+              "# International Business Companies List\nThe International Business Companies List is a comprehensive database that provides information on companies operating globally. This list includes multinational corporations, global enterprises, and international businesses across various industries.\n\n...\n\n## International Business Companies List\nThis list contains a wide range of businesses, including multinational corporations, international enterprises, and global companies across various industries.\n\n...\n\n## **WHAT IS INTERNATIONAL BUSINESS COMPANIES LIST?**\nEncompassing multinational corporations, international enterprises, and global businesses spanning diverse industries, this resource provides comprehensive coverage for your business needs.\n\n...\n\nThis product serves as a valuable resource for businesses looking to expand their global reach, identify potential partners or competitors, and stay informed about the international business landscape.\n\n...\n\nBy leveraging this database, companies can gain insights into global market trends, establish international connections, and explore growth opportunities in a diverse range of industries.\n\n...\n\n## **Experience that defines BizProspex**\nToday we stand out as global leaders when it comes to [CRM cleaning](https://bizprospex.com/crm-cleaning/) , [Data appending](https://bizprospex.com/data-appending/) , [Data mining](https://bizprospex.com/on-demand-data-mining/) , [tech install](https://bizprospex.com/tech-install-data/) , Data\n\n...\n\n## FAQ’s\n### What is the International Business Companies List?\nThe International Business Companies List is a database containing information about global companies, including multinational corporations, international enterprises, and businesses operating across multiple countries.\nIt provides details like company names, locations, industries, financial data, key executives, and contact information. This list is valuable for businesses for market research, lead generation, competitor analysis, and making strategic decisions in the global marketplace.\n\n...\n\n## **Why Trust BizProspex?**\n“BizProspex is the only company I would go for the Data Cleaning. The team has a quick turnaround time and produces quality work. Good people to work with.”\nbizprospex reviews four and half star\nJacob Waldman\nCEO - Mcadam Fa."
+            ]
+          }
+        },
+        {
+          "title": "Film, TV & Commercials Production Companies and Services Directory | Screen Global Production",
+          "url": "http://screenglobalproduction.com",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "http://screenglobalproduction.com/",
+            "title": "Film, TV & Commercials Production Companies and Services Directory | Screen Global Production",
+            "publish_date": null,
+            "excerpts": [
+              "Find international production companies, services and crew\nCountry/Location\nCategories\nSearch people\nSearch credits\nSearch company\n\n...\n\n# “Collaboration feels instinctive”: Taiwan's wave of co-productions with Japan\n## Daniel Dae Kim on how 'Butterfly' showcases South Korean locations and crew\n### \"I love chaos\" Emmy nominee Rob Tokarz on designing 'Hacks' jet-setting season 4\n[Beyond The Screen Olsberg SPI, Screen experts discuss key trends in global film and TV production](https://youtu.be/KTjD1Rk-nVs)\nSign up to get the latest production news, insights, and\nfeatures straight to your inbox\nSubscribe to our newsletter"
+            ]
+          }
+        },
+        {
+          "title": "Major film studios - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Major_film_studios",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://en.wikipedia.org/wiki/Major_film_studios",
+            "title": "Major film studios - Wikipedia",
+            "publish_date": "2026-09-02",
+            "excerpts": [
+              "# Overview\n## Majors\n### Instant majors\n* [National General Corporation](https://en.wikipedia.org/wiki/National_General_Pictures \"National General Pictures\") (distributor for [Cinema Center Films](https://en.wikipedia.org/wiki/Cinema_Center_Films \"Cinema Center Films\") , the film production company of CBS)\n\n...\n\n## Mini-majors\n### Past\n* [Republic Pictures](https://en.wikipedia.org/wiki/Republic_Pictures \"Republic Pictures\") – originally a \"poverty row\" B-movie producer, [[ 19 ]]() produced many serials and was formed by the consolidation of six minor production companies [[ 24 ]]() in 1935. Ceased production in 1958. [[ 25 ]]() It was rebooted in 1985.\n\n...\n\n### Significant international entities\n* [Film4 Productions](https://en.wikipedia.org/wiki/Film4_Productions \"Film4 Productions\") (United Kingdom) – owned by the [Channel Four Television Corporation](https://en.wikipedia.org/wiki/Channel_Four_Television_Corporation \"Channel Four Television Corporation\") , which is owned by [UK Government\n\n...\n\n* [Hammer Film Productions](https://en.wikipedia.org/wiki/Hammer_Film_Productions \"Hammer Film Productions\") (United Kingdom) – owned by the [John Gore Organization](https://en.wikipedia.org/wiki/John_Gore_Organization \"John Gore Organization\")\n\n...\n\n## External links\n| [A24](https://en.wikipedia.org/wiki/A24 \"A24\") | * [2AM](https://en.wikipedia.org/wiki/2AM_(company) \"2AM (company)\") (backing) |\nHorizontal\nproduction/\ndistribution\ncompanies\n* [AMC Global Media](https://en.wikipedia.org/wiki/AMC_Global_Media \"AMC Global Media\")\n* [Apple Studios](https://en.wikipedia.org/wiki/Apple_Studios \"Apple Studios\")\n* [Condé Nast Entertainment](https://en.wikipedia.org/wiki/Cond%C3%A9_Nast_Entertainment \"Condé Nast Entertainment\")\n\n...\n\n* [New Republic Pictures](https://en.wikipedia.org/wiki/New_Republic_Pictures \"New Republic Pictures\")\n* [PalmStar Media](https://en.wikipedia.org/wiki/PalmStar_Media \"PalmStar Media\")\n* [Prospect Park](https://en.wikipedia.org/wiki/Prospect_Park_(production_company) \"Prospect Park (production company)\")\n\n...\n\nProduction/\ndistribution\ncompanies\n|* [2929 Entertainment](https://en.wikipedia.org/wiki/2929_Entertainment \"2929 Entertainment\")\n```\n+ [Magnolia Pictures](https://en.wikipedia.org/wiki/Magnolia_Pictures \"Magnolia Pictures\")\n+ [Truly Indie](https://en.wikipedia.org/wiki/Truly_Indie \"Truly Indie\")\n```\n\n...\n\n* [Beacon Pictures](https://en.wikipedia.org/wiki/Beacon_Pictures \"Beacon Pictures\")\n* [Berlanti Productions](https://en.wikipedia.org/wiki/Berlanti_Productions \"Berlanti Productions\")\n* [Bleecker Street](https://en.wikipedia.org/wiki/Bleecker_Street_(company) \"Bleecker Street (company)\")"
+            ]
+          }
+        },
+        {
+          "title": "global-produce",
+          "url": "https://platform.tracxn.com/a/d/company/58f5efefe4b04db714d62c79/global-produce",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://platform.tracxn.com/a/d/company/58f5efefe4b04db714d62c79/global-produce?utm_source=parallel&utm_medium=ai#a:about",
+            "title": "global-produce",
+            "publish_date": null,
+            "excerpts": [
+              "All Locations: Japan  \nName: global-produce\nWebsite Url: https://www.global-produce.jp/\nFounded Year: 2011\nShort Description: Provider of comprehensive business event production services\nDetailed Description: Provider of comprehensive business event production services.\nThis includes planning, design, and execution of a wide variety of events, from award ceremonies and conferences to corporate events and product launches. Services encompass all aspects of event management, including venue selection, stage design, technical production, and marketing support."
+            ]
+          }
+        },
+        {
+          "title": "DRAGON EVENTS - EVENT PRODUCTION COMPANY IN TOKYO JAPAN | GLOBAL PRODUCE",
+          "url": "https://globalproduce-event.com/what/dragon-events",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://globalproduce-event.com/what/dragon-events",
+            "title": "DRAGON EVENTS - EVENT PRODUCTION COMPANY IN TOKYO JAPAN | GLOBAL PRODUCE",
+            "publish_date": "2026-03-17",
+            "excerpts": [
+              "# DRAGON EVENTS\nJapanese-Inspired Modern Business Events\npowered by GLOBAL PRODUCE\n* Japanese History and Culture\n* Cutting Edge Technology\n* Japanese Unique Venue\n* Japanese Pop Culture\n* Japanese Traditional Performing Arts\n* [HOME](https://globalproduce-event.com)\n* [WHAT](https://globalproduce-event.com/what/)\n* DRAGON EVENTS\n\n...\n\n## Japan to the World\n### Bridging Business and Culture\nAt GLOBAL PRODUCE, we've launched DRAGON EVENTS to deliver one -of-a-kind business events that merge world-class production, modern technology and the rich cultural heritage of Japan.\nThis service was born from a rising demand from global companies seeking authentic, yet up to date \"WA-style\" (Japanese -style) experiences for incentive trips, conferences, product launches, and award ceremonies.\n\n### A Team of Cross-Cultural Event Experts\nDRAGON EVENTS is powered by bilingual producers and creative directors with extensive experience in both domestic and international event production.\nOur team deeply understands the values, etiquette, and aesthetics of both traditional and cutting-edge Japanese culture - and how to seamlessly integrate them into modern global business settings.\n\n### Tailored Japanese Experiences, Delivered End-to-End\nDelivered with Japanese precision, cultural authenticity, and world-class event production.\n\n...\n\n## Stage Design\nBreathtaking Scenery for Global Audiences. Transcend time with stage designs that blend ancient elegance with modern power. Whether it's a minimal Zen-inspired setup or a vibrant Kabuki-style production, we craft unique visual experiences that leave a lasting impression on every guest.\n\n## Producers & Staffs\n* MASAKI KOUHATA\nMASAKI KOUHATA\nCEO / Event Producer\n* TOMO MURAKAMI\nTOMO MURAKAMI\nVP / Global Manager\n* MAYO MIYANAGA\nMAYO MIYANAGA\nCMO / Event Producer\n* KIYOSHI OBATA\nKIYOSHI OBATA\nCFO / Administrative Officer\n* TATSUTO KAWAMOTO\nTATSUTO KAWAMOTO\nCPO / Event Producer\n* HIROTAKA FUJIWARA\nHIROTAKA FUJIWARA\n\n...\n\n## FAQ\n### Q1. I’ve never hosted an event in Japan before. Can you handle everything for us?\nAbsolutely. We provide full end-to-end support—from concept planning, venue arrangements, production design, interpretation, and live streaming to decorations and souvenirs.\n\n...\n\n### Q2. I don’t speak Japanese. Can communication be done in English?\nOf course. DRAGON EVENTS has English-speaking producers and interpreters who can handle every step in English, including meetings, on-site coordination, and material preparation."
+            ]
+          }
+        },
+        {
+          "title": "Global Production Companies",
+          "url": "https://www.goodadsmatter.com/ad-makers-collective/categories/global-production-companies",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.goodadsmatter.com/ad-makers-collective/categories/global-production-companies",
+            "title": "Global Production Companies",
+            "publish_date": null,
+            "excerpts": [
+              "top of page\n\n...\n\namc banner 1_edited_edited.jpg\n\n# An Initiative By Purpose Studios\nAdmakers collective Yellow.png\n* [](https://www.instagram.com/goodadsmatter/)\n* [LINKED IN](https://www.linkedin.com/company/90934042)\n* [](https://www.youtube.com/@goodadsmatter)\n* [](https://in.pinterest.com/Goodadsmatter/)\n* [Black Vimeo Icon](https://vimeo.com/user197922966/collections)\nbottom of page"
+            ]
+          }
+        },
+        {
+          "title": "Production Companies | Screen Global Production",
+          "url": "https://www.screenglobalproduction.com/section/production-companies-services/category/production-companies",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.screenglobalproduction.com/section/production-companies-services/category/production-companies",
+            "title": "Production Companies | Screen Global Production",
+            "publish_date": null,
+            "excerpts": [
+              "Find international production companies, services and crew\nSearch people\nSearch credits\nSearch company\n\n...\n\n# Find companies\n## Promote your services with Screen Global Production\nChoose from three profile types - Basic, Silver and Gold\nCreate Profile\nWe offer a range of display advertising opportunities.\nLearn More\n1. Home\n2. Categories\n3. production companies services\n4. companies\nSign up to get the latest production news, insights, and\nfeatures straight to your inbox\nSubscribe to our newsletter\nDiscover our other brands\n[the knowledge](https://www.theknowledgeonline.com)\n[production intelligence](https://www.theknowledgeonline.com/production-intelligence)\n[broadcast now](https://www.broadcastnow.co.uk)\n[screen daily](https://www.screendaily.com)\nMedia Partners\n[AFCI](https://afci.org)\nLocation Managers Guild International\nUseful resources\n[Contact us](https://www.screenglobalproduction.com/contact)\n\n...\n\n[](https://x.com/ScreenGlobalP)\n[](https://www.facebook.com/ScreenGlobalProduction)\n[](https://www.instagram.com/screenglobalproduction/)\n[](https://www.youtube.com/channel/UCRusuVjpXAt45GcZaVqTujA)"
+            ]
+          }
+        },
+        {
+          "title": "WHO - EVENT PRODUCTION COMPANY IN TOKYO JAPAN | GLOBAL PRODUCE",
+          "url": "https://globalproduce-event.com/who",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://globalproduce-event.com/who",
+            "title": "WHO - EVENT PRODUCTION COMPANY IN TOKYO JAPAN | GLOBAL PRODUCE",
+            "publish_date": "2026-01-29",
+            "excerpts": [
+              "# JAPAN to the WORLD\n## Company name\n```\n[GLOBAL PRODUCE Co., Ltd.](https://www.global-produce.jp/)\n```\nPmark 21005070\n\n...\n\n## Business Content\n```\n1. 1\\. World-wide event production\n```\n2. 2. International content distribution\n3. 3. Corporate event production, corporate activation\n4. 4. Planning and operation of events and seminars\n5. 5. All businesses and services incidental to the previous items\n\n## Member Organization\n```\nNippon Keidanren Federation  \n```\nJapan Event Produce Association\nJapan Convention Business Association\n\n## Affiliated company\n```\n[GLOBAL METAVERSE Co., Ltd.](https://global-metaverse.jp/)  \n```\nBusiness Content: Overall design of Metaverse Events for BtoB\n\n## A passionate and dynamic team\nTeam:\nProducer/Creative Director/Event Director/Stage Planner/Designer/Video Director etc…\n[MORE](https://globalproduce-event.com/who/team/)\n\n...\n\n## Our Global Ecosystem\nHere we showcase our partners worldwide. We are happy to introduce the local companies\nif you’re in need of support in Events +more in their designated areas.\nAPAC\nAPEC map\nAmericas/Europe\nAmericas/Europe map\n\n...\n\nBy accumulating a vast amount of know-how in the competitive Metaverse space, Global Produce will be able to apply these insights to their specialty B2B events, thus expanding further usiness opportunities. GLOBAL METAVERSE GLOBAL METAVERSE](https://global-metaverse.jp/)\n\n## Company Introduction & Service Overview\nLearn about Global Produce and the services we offer in this concise overview. From innovative event planning to seamless execution, our company is dedicated to creating memorable experiences. Download to see how we bring your vision to life with creativity, strategy, and professionalism.\n\n...\n\n13F Aoyama Oval bld. 5-52-2, Jingumae, Shibuya-ku, Tokyo, 150-0001, Japan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "query": "distribution platforms and recent business releases in global",
+      "results": [
+        {
+          "title": "Global Distribution",
+          "url": "https://platform.tracxn.com/a/d/company/5319b3cae4b0f7e165fe9442/global%20distribution",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://platform.tracxn.com/a/d/company/5319b3cae4b0f7e165fe9442/global%20distribution?utm_source=parallel&utm_medium=ai#a:about",
+            "title": "Global Distribution",
+            "publish_date": null,
+            "excerpts": [
+              "html 2025-05  Xencelabs and Global Distribution announce partnership to bring revolutionary digital drawing solutions to creative professionals https://www.globenewswire.\ncom/news-release/2023/09/27/2750042/0/fr/Xencelabs-et-Global-Distribution-annoncent-un-partenariat-visant-%C3%A0-apporter-des-solutions-de-dessin-num%C3%A9rique-r%C3%A9volutionnaires-aux-professionnels-cr%C3%A9atifs.html 2023-09  Google, Quantum Media Storage And Symply Acquisition https://www.forbes."
+            ]
+          }
+        },
+        {
+          "title": "PR Newswire: press release distribution, targeting, monitoring ...",
+          "url": "https://www.prnewswire.com",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.prnewswire.com/",
+            "title": "PR Newswire: press release distribution, targeting, monitoring ...",
+            "publish_date": "2026-09-03",
+            "excerpts": [
+              "# Unmatched Visibility.\n## Award-winning Distribution & Platform\nPress Release\nDistribution Company\nof the Year\nAEO Platform\nof the Year\nBig News! Cision has acquired Trajaan, the industry-leading search intelligence and GenAI monitoring platform. [Learn More](https://www.prnewswire.com/news-releases/cision-acquires-trajaan-expanding-ai-and-search-intelligence-across-its-platforms-302639275.html)\n\n...\n\n## Unmatched Discoverability\nThe industry leader in domain authority and web traffic, PRNewswire.com delivers a minimum 2x more search visibility and greater reach for your story.\n[Learn More](https://www.prnewswire.com/pr-distribution-and-placement/)\n\n## Innovation in One Platform\nThe only place for unified planning, creation, distribution and reporting in one AI-enhanced platform, purpose-built for communicators to maximize results.\nLearn More\n\n## Maximum Visibility\nReach 500K+ media outlets, newsrooms and influencers worldwide through the industry’s largest, most trusted multimedia distribution network.\n[Learn More](https://www.prnewswire.com/pr-distribution-and-placement/)\n\n...\n\n## Featured Solutions\nExplore tools that help you plan smarter, create faster and amplify your story further, all within the **PR Newswire Amplify™** platform.\nInstantly Turn One Story into Multiple Campaign Assets\n\n...\n\n## Featured Stories\n### Aug 25, 2026, 07:00 ET United Adds 10 International Cities for 2027; Largest Expansion in Airline's History New nonstop flights to Okinawa, Japan; Toulouse, France; Luxem\nBrowse All News Stories\n\n...\n\n## Products\n* [Explore Our Platform](https://www.prnewswire.com/amplify-platform/ \"Explore Our Platform\")\n* [Plan Campaigns](https://www.prnewswire.com/amplify-ai-plan-module/ \"Plan Campaigns\")\n* [Create with AI](https://www.prnewswire.com/ai-press-release/ \"Create with AI\")\n* [Distribute Press Releases](https://www.prnewswire.com/pr-distribution-and-placement/ \"Distribute Press Releases\")\n* [Report Results](https://www.prnewswire.com/amplify-report-module/ \"Report Results\")\n* [Amplify Content](https://www.prnewswire.com/multichannel-amplification/ \"Amplify Content\")\n\n## My Services\n* All New Releases\n* [Platform Login](https://app.prnewswire.com/login/auto \"Platform Login\")\n* [Data Privacy](https://www.cision.com/legal/privacy-policy/ \"Data Privacy\")\nDo not sell or share my personal information :"
+            ]
+          }
+        },
+        {
+          "title": "Global Press Release Distribution Services",
+          "url": "https://www.businesswire.com/services/distribution",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.businesswire.com/services/distribution",
+            "title": "Global Press Release Distribution Services",
+            "publish_date": null,
+            "excerpts": [
+              "media points13K+12K+11K+10K+9K+releases distributed monthly160+150+140+130+120+countries reached70+69+68+67+66+languages available for translation · Business Wire distributes fully branded, structured news to the channels audiences and AI platforms rely on to find information."
+            ]
+          }
+        },
+        {
+          "title": "Press Release Distribution Services: A Complete Guide for PR Teams | Notified",
+          "url": "https://www.notified.com/resources/press-release-distribution-tools",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.notified.com/resources/press-release-distribution-tools",
+            "title": "Press Release Distribution Services: A Complete Guide for PR Teams | Notified",
+            "publish_date": null,
+            "excerpts": [
+              "When comparing press release distribution services, you should consider factors such as: ... Most organizations use a combination of these approaches depending on their goals. <strong>GlobeNewswire, PR Newswire (Cision) and Business Wire</strong> all provide global press release distribution, but they differ"
+            ]
+          }
+        },
+        {
+          "title": "Latest Press Release Distribution & Recent News Releases - PR Newswire APAC",
+          "url": "https://en.prnasia.com/all_releases/recent_109900.shtml",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://en.prnasia.com/all_releases/recent_109900.shtml",
+            "title": "Latest Press Release Distribution & Recent News Releases - PR Newswire APAC",
+            "publish_date": "2026-07-20",
+            "excerpts": [
+              "# Latest News\nAll\n* [APAC](https://en.prnasia.com/apac_releases/recent.shtml \"APAC\")\n* [Global](https://en.prnasia.com/global_releases/recent.shtml \"Global\")\n\n...\n\n## [Wild Digital Indonesia 2021 Is Back for Its 4th Edition](https://en.prnasia.com/releases/apac/wild-digital-indonesia-2021-is-back-for-its-4th-edition-331907.shtml)\n### [Create a Collaborative Organization to Help Manufacturing Companies Deliver Exceptional Customer Service at Every Touchpoint](https://en.prnasia.com/releases/apac/create-a-collaborative-organization-to-help-manufacturing-companies-deliver-exceptional-customer-service-at-every-touchpoint-331904.shtml)\nchain, manufacturing, distribution,\n\n...\n\n### [CoolpoTools Upgrades Software for PANA Smart Video Conferencing Camera to Fulfill Hybrid Working Needs](https://en.prnasia.com/releases/global/coolpotools-upgrades-software-for-pana-smart-video-conferencing-camera-to-fulfill-hybrid-working-needs-331885.shtml)\nrecently upgraded their CoolpoTools software with brand new features for the\n\n...\n\n### [1st Anniversary, Viral Blast Global supports the growth of the creative economy and tourism in Indonesia](https://en.prnasia.com/releases/global/1st-anniversary-viral-blast-global-supports-the-growth-of-the-creative-economy-and-tourism-in-indonesia-331881.shtml)\n[1](https://en.prnasia.com/all_releases/recent.shtml) ...\n\n...\n\n[5498](https://en.prnasia.com/all_releases/recent_109940.shtml)\n\n...\n\n## Week's Top Stories\n### Most Read\n#### [MetaLight (02605.HK) Announces 2026 Interim Results: Net Loss Narrows Significantly, with Adjusted Net Profitability Sustained](https://en.prnasia.com/releases/apac/metalight-02605-hk-announces-2026-interim-results-net-loss-narrows-significantly-with-adjusted-net-profitability-sustained-545700.shtml)\n2026-08-28 22:42 13889\n\n#### [Fosun International: ClubMed Lifestyle Group Proposes Hong Kong Listing, Targeting 85 Resorts Globally by 2030](https://en.prnasia.com/releases/apac/fosun-international-clubmed-lifestyle-group-proposes-hong-kong-listing-targeting-85-resorts-globally-by-2030-545710.shtml)\n2026-08-28 23:38 11441"
+            ]
+          }
+        },
+        {
+          "title": "Top 10 Press Release Distribution Services: 2026 Ultimate Comparison",
+          "url": "https://www.streetinsider.com/GetNews/Top+10+Press+Release+Distribution+Services:+2026+Ultimate+Comparison/26147564.html",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.streetinsider.com/GetNews/Top+10+Press+Release+Distribution+Services:+2026+Ultimate+Comparison/26147564.html",
+            "title": "Top 10 Press Release Distribution Services: 2026 Ultimate Comparison",
+            "publish_date": "2026-03-11",
+            "excerpts": [
+              "# Top 10 Press Release Distribution Services: 2026 Ultimate Comparison\nTo help you navigate the top players this year, we have analyzed the industry leaders based on their reach, reporting capabilities, and cost-effectiveness.\n**2026 Quick Comparison: Top PR Distribution Platforms in 2026 March**\n| Rank | PR Distribution Service | Starting Price | Rating | Key Advantage |\n| **1** | **RedPress.net** | **$89** | ⭐⭐⭐⭐⭐ | **AI Visibility & Global Distribution** |\n| 3 | Business Wire | $800+ | ⭐⭐⭐⭐ | Financial Disclosure Expertise |\n| 4 | GlobeNewswire | $600+ | ⭐⭐⭐ | Global Media Circuits |\n| 5 | PRWeb | $100+ | ⭐⭐⭐ | Budget-Friendly SEO |\n| 6 | EIN Presswire | $99 | ⭐⭐⭐ | Niche Industry Targeting |\n| 7 | Newswire.com | $350+ | ⭐⭐⭐⭐ | Targeted Media Lists |\n| 8 | Accesswire | $175+ | ⭐⭐⭐ | Multimedia Integration |\n| 9 | 24-7 Press Release | $89 | ⭐⭐ | Basic Local Visibility |\n| 10 | Pressat (UK) | £110 | ⭐⭐⭐ | UK and European Focus |\n\n...\n\n**4. PRWeb**\nAnother Cision-owned platform, PRWeb is specifically designed for those focusing on Search Engine Optimization (SEO)."
+            ]
+          }
+        },
+        {
+          "title": "Krafton announced on the 9th that the game released on the global game distribution platform Steam b.. - MK",
+          "url": "https://www.mk.co.kr/en/it/11213814",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.mk.co.kr/en/it/11213814",
+            "title": "Krafton announced on the 9th that the game released on the global game distribution platform Steam b.. - MK",
+            "publish_date": "2025-01-09",
+            "excerpts": [
+              "# detail\nKrafton announced on the 9th that the game released on the global game distribution platform Steam by the 2nd trainees of \"Krafton Jungle Game Lab\" is receiving good responses.\nJungle Game Lab is Krafton's social contribution activity that supports the growth of high-quality game developers. It helps prospective game developers analyze the core fun of the game and experience the entire production process, including release.\n\n...\n\nThe total number of downloads for the six games exceeded 15,000 as of the 8th, and positive reviews averaged 96%. In particular, the crafting simulation genre \"ENSCROLL\" has more than 5,000 downloads and is receiving enthusiastic responses from users.\n\n...\n\nMeanwhile, Krafton will recruit participants for the third period of Jungle Game Lab by the 13th. The final successful applicants will enter a camp at Krafton Jungle Campus in Yongin, Gyeonggi Province from March to August."
+            ]
+          }
+        },
+        {
+          "title": "BeritaWire Launches New Press Release Distribution Platform for Indonesian Businesses",
+          "url": "https://business.times-online.com/times-online/article/firstpublisher-2026-6-22-beritawire-launches-new-press-release-distribution-platform-for-indonesian-businesses",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://business.times-online.com/times-online/article/firstpublisher-2026-6-22-beritawire-launches-new-press-release-distribution-platform-for-indonesian-businesses",
+            "title": "BeritaWire Launches New Press Release Distribution Platform for Indonesian Businesses",
+            "publish_date": "2026-06-22",
+            "excerpts": [
+              "# BeritaWire Launches New Press Release Distribution Platform for Indonesian Businesses\n**Jakarta, Indonesia** – BeritaWire has officially launched its [**Indonesian press release distribution**](https://beritawire.com/) services, providing businesses, startups, agencies, and organizations with a simple and affordable way to share their\n\n...\n\nWhether a company wants to announce a product launch, business expansion, partnership, event, or company milestone, BeritaWire provides a streamlined way to get the news published.\n\n...\n\nLooking ahead, the company plans to continue expanding its media network and distribution capabilities to serve businesses across technology, finance, e-commerce, education, healthcare, tourism, blockchain, and other sectors.\nSample Press Release: [Link of Report](https://beritawire.com/wp-content/uploads/2026/06/JustMarkets-Global-Plan-II-_-Press-Release-Report-_-BeritaWire-Mainstream-Media.pdf)\n\n## **About BeritaWire**\nBeritaWire is an Indonesia-focused [**press release distribution**](https://beritawire.com/) platform that helps businesses and organizations publish news across trusted **Indonesian media outlets** .\nThrough affordable distribution packages, Google News visibility opportunities, and assured media placements, BeritaWire helps brands reach wider audiences and strengthen their digital presence throughout Indonesia.\n\n...\n\n# More News\n[Lumentum Sees AI Data Centers Driving Major Optical Connectivity Growth ↗](https://www.marketbeat.com/instant-alerts/event-lumentum-sees-ai-data-centers-driving-major-optical-connectivity-growth-2026-08-27/?utm_source=cloudquote&utm_medium=cloudquote \"Lumentum Sees AI Data Centers Driving Major Optical Connectivity Growth\")\n\n...\n\nNews headline image\n[ServiceNow Says AI Is Driving Growth, Not Budget Pressure ↗](https://www.marketbeat.com/instant-alerts/event-servicenow-says-ai-is-driving-growth-not-budget-pressure-2026-08-27/?utm_source=cloudquote&utm_medium=cloudquote \"ServiceNow Says AI Is Driving Growth, Not Budget Pressure\")\nAugust 27, 2026\n\n...\n\n[Affirm Q4 Earnings Call Highlights ↗](https://www.marketbeat.com/instant-alerts/transcript-affirm-q4-earnings-call-highlights-2026-08-27/?utm_source=cloudquote&utm_medium=cloudquote \"Affirm Q4 Earnings Call Highlights\")\nAugust 27, 2026\nVia [MarketBeat](https://business.times-online.com/times-online/news/provider/marketbeat)"
+            ]
+          }
+        },
+        {
+          "title": "Global Press Release Distribution Service for International Reach | Business Wire",
+          "url": "https://secure.businesswire.com/services/distribution/international-distribution",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://secure.businesswire.com/services/distribution/international-distribution",
+            "title": "Global Press Release Distribution Service for International Reach | Business Wire",
+            "publish_date": null,
+            "excerpts": [
+              "Distribute press releases worldwide with <strong>Business Wire</strong>. Reach 92,000+ media points, target key markets, and track performance with NewsTrak analytics."
+            ]
+          }
+        },
+        {
+          "title": "30+ Best Press Release Distribution Sites and Services",
+          "url": "https://www.prezly.com/academy/best-press-release-distribution",
+          "source": "",
+          "snippet": "",
+          "relevance": 0.0,
+          "raw": {
+            "url": "https://www.prezly.com/academy/best-press-release-distribution",
+            "title": "30+ Best Press Release Distribution Sites and Services",
+            "publish_date": "2024-08-30",
+            "excerpts": [
+              "# 30+ best press release distribution sites and services\n## #3 Business Wire\n### How much does Business Wire cost?\n| **Pricing Factor** | **Cost** |\n| 400-word press release (base price) | $760 |\n| Each additional 100 words | $195 |\n| First multimedia attachment | $425 |\n| Each additional attachment | $225 |\n| Amplified visibility, engagement, analytics and measurement | $95 |\n\n...\n\n## #10 24-7 Press Release\n### How much does 24-7 Press Release cost?\n| **Package** | **Price** | **Features** |\n| Mass Media Visibility | $449 | Uses PR Newswire’s US National online network for maximum visibility. |\n| Integrated Media PRO | $139 | Provides coverage across digital and traditional media platforms. |\n\n...\n\n## #14 PRNEWS.IO\nPRNEWS.IO is a content marketing platform for distributing sponsored content on 100,000+ media sites. It allows businesses to create custom pressrooms and [press kits](https://www.prezly.com/academy/press-kit), target specific audiences, and track performance.\n\n...\n\n## #15 LinkingNews.com\nLinkingNews.com offers news syndication services across more than 600 US sites, including major networks like ABC, NBC, and Bloomberg. The platform’s standout feature is its white-label distribution, allowing agencies to distribute press releases under their own branding.\n\n...\n\n## #16 Presswire\nIt provides tailored press release distribution, geo-targeting, media monitoring, and translation services, which can be helpful for businesses targeting specific industries or international markets.\n\n...\n\n## #19 PR Fire\nPR Fire offers flexible, pay-as-you-go press release distribution with guaranteed media placement on top sites like Yahoo! News, AP News, and Business Insider.\n\n...\n\n## #28 MediaHQ\nMediaHQ is a PR software platform designed to streamline media relations. It offers features like a media contact database, personalized pitch tools, AI-driven assistance for creating pitches, and real-time reporting, allowing users to send press releases efficiently and analyze campaign results in one platform.\n\n...\n\n## Comparing full PR software instead of just distribution\n| **Platform** | **Starting price** |\n| Cision | ~$7,200+ per year for the full PR platform |\n| Muck Rack | ~$5,000+ per year; most users report paying around $10,000/year |\n| Prowly | $258–$369 per month |\n| Prezly | $100 per month |"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "report": {
+    "executive_summary": "Research for 'StudioOps research example' collected 40 unique sources. Findings are grounded in the cited evidence.",
+    "key_opportunities": [],
+    "comparable_titles": [
+      {
+        "title": "Globalpictures",
+        "year": null,
+        "genre": null,
+        "market": null,
+        "source": null
+      },
+      {
+        "title": "50 Incredible Business Movies & Shows [Of All Time] - DigitalDefynd Education",
+        "year": null,
+        "genre": null,
+        "market": null,
+        "source": null
+      },
+      {
+        "title": "business",
+        "year": null,
+        "genre": null,
+        "market": null,
+        "source": null
+      },
+      {
+        "title": "27 Best Documentaries for Entrepreneurs in 2026",
+        "year": null,
+        "genre": null,
+        "market": null,
+        "source": null
+      },
+      {
+        "title": "13 Best Business Documentaries To Watch In 2026",
+        "year": null,
+        "genre": null,
+        "market": null,
+        "source": null
+      },
+      {
+        "title": "25 Best Business Movies for Entrepreneurs: Top Films About Startups & Money - Hustle Inspires Hustle ™",
+        "year": null,
+        "genre": null,
+        "market": null,
+        "source": null
+      }
+    ],
+    "market_signals": [],
+    "production_intelligence": [],
+    "risks": [],
+    "next_steps": [
+      "Review the top cited sources listed in 'sources' for deeper context",
+      "Validate audience demand using platform-specific metrics where available",
+      "Investigate identified production partners and distribution platforms"
+    ],
+    "sources": [
+      {
+        "title": "Globalpictures",
+        "url": "https://platform.tracxn.com/a/d/company/69a01e44c975946c875ae52d/globalpictures",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "50 Incredible Business Movies & Shows [Of All Time] - DigitalDefynd Education",
+        "url": "https://digitaldefynd.com/IQ/business-movies-shows",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "business",
+        "url": "https://www.imdb.com/search/title",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "27 Best Documentaries for Entrepreneurs in 2026",
+        "url": "https://www.99signals.com/best-documentaries-entrepreneurs",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "13 Best Business Documentaries To Watch In 2026",
+        "url": "https://rajivtalreja.com/blog/business-documentaries",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "25 Best Business Movies for Entrepreneurs: Top Films About Startups & Money - Hustle Inspires Hustle ™",
+        "url": "https://www.hustleinspireshustle.com/blog/list-of-the-best-business-movies",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "68 movies and series for entrepreneurs » Casbeg",
+        "url": "https://casbeg.com/blog/movies-and-series-for-entrepreneurs",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Business Movies and Documentaries – The Ultimate List - Knowledge Matters - knowledgematters.com",
+        "url": "https://www.knowledgematters.com/blog/business-movies-and-documentaries-the-ultimate-list",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "New Buday TLP Documentary Series Begins to Dissect the World's Most Influential Management Concepts – Buday Thought Leadership Partners",
+        "url": "http://budaytlp.com/2026/07/27/new-buday-tlp-documentary-series-begins-to-dissect-the-worlds-most-influential-management-concepts",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Top 10 Business Movies to Inspire Entrepreneurs, on Netflix",
+        "url": "https://autogrowthacademy.com/business/business-movies-netflix",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Audienceglobal",
+        "url": "https://platform.tracxn.com/a/d/company/58c18a6ee4b057a3f2ec8814/audienceglobal",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "global audience - Reports, Statistics & Marketing Trends | EMARKETER",
+        "url": "https://www.emarketer.com/topics/category/global%20audience",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Top Global Business Trends to Watch in 2026 | CEIBS Europe",
+        "url": "https://europe.ceibs.edu/article/global-business-trends",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Audience Intelligence Market Size, Share Report, 2026-2033",
+        "url": "https://www.grandviewresearch.com/industry-analysis/audience-intelligence-market-report",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Business and technology trends for 2026 | IBM",
+        "url": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Five Global Trends in Business and Society in 2026 | INSEAD Knowledge",
+        "url": "https://knowledge.insead.edu/responsibility/five-global-trends-business-and-society-2026",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "26 Trends for 26: Global Business Trends Report 2026 - Peter Fisk",
+        "url": "https://www.peterfisk.com/vault-entry/26-trends-for-2026",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "6 Business trends for 2026",
+        "url": "https://www.forbesindia.com/article/thought-leadership/iese-business-school/6-business-trends-for-2026/2990223/1",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Audience Analytics Market Size, Share | Industry Report 2030",
+        "url": "https://www.grandviewresearch.com/industry-analysis/audience-analytics-market-report",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Global Business Trends 2026: What Entrepreneurs Need to Watch Now - Success Knocks | The Business Magazine",
+        "url": "https://successknocks.com/global-business-trends-2026",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "TPP Global Productions",
+        "url": "https://platform.tracxn.com/a/d/company/647e3d33dedf703e65f963c3/tpp%20global%20productions",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Best Global Production Companies | Good Ads Matter",
+        "url": "https://www.goodadsmatter.com/global-production-companies",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "International Business Companies List -Buy at $199 -BizProspex",
+        "url": "https://bizprospex.com/product/international-business-companies-list",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Film, TV & Commercials Production Companies and Services Directory | Screen Global Production",
+        "url": "http://screenglobalproduction.com",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Major film studios - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Major_film_studios",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "global-produce",
+        "url": "https://platform.tracxn.com/a/d/company/58f5efefe4b04db714d62c79/global-produce",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "DRAGON EVENTS - EVENT PRODUCTION COMPANY IN TOKYO JAPAN | GLOBAL PRODUCE",
+        "url": "https://globalproduce-event.com/what/dragon-events",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Global Production Companies",
+        "url": "https://www.goodadsmatter.com/ad-makers-collective/categories/global-production-companies",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Production Companies | Screen Global Production",
+        "url": "https://www.screenglobalproduction.com/section/production-companies-services/category/production-companies",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "WHO - EVENT PRODUCTION COMPANY IN TOKYO JAPAN | GLOBAL PRODUCE",
+        "url": "https://globalproduce-event.com/who",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Global Distribution",
+        "url": "https://platform.tracxn.com/a/d/company/5319b3cae4b0f7e165fe9442/global%20distribution",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "PR Newswire: press release distribution, targeting, monitoring ...",
+        "url": "https://www.prnewswire.com",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Global Press Release Distribution Services",
+        "url": "https://www.businesswire.com/services/distribution",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Press Release Distribution Services: A Complete Guide for PR Teams | Notified",
+        "url": "https://www.notified.com/resources/press-release-distribution-tools",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Latest Press Release Distribution & Recent News Releases - PR Newswire APAC",
+        "url": "https://en.prnasia.com/all_releases/recent_109900.shtml",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Top 10 Press Release Distribution Services: 2026 Ultimate Comparison",
+        "url": "https://www.streetinsider.com/GetNews/Top+10+Press+Release+Distribution+Services:+2026+Ultimate+Comparison/26147564.html",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Krafton announced on the 9th that the game released on the global game distribution platform Steam b.. - MK",
+        "url": "https://www.mk.co.kr/en/it/11213814",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "BeritaWire Launches New Press Release Distribution Platform for Indonesian Businesses",
+        "url": "https://business.times-online.com/times-online/article/firstpublisher-2026-6-22-beritawire-launches-new-press-release-distribution-platform-for-indonesian-businesses",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "Global Press Release Distribution Service for International Reach | Business Wire",
+        "url": "https://secure.businesswire.com/services/distribution/international-distribution",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      },
+      {
+        "title": "30+ Best Press Release Distribution Sites and Services",
+        "url": "https://www.prezly.com/academy/best-press-release-distribution",
+        "source": null,
+        "snippet": null,
+        "relevance": 0.0
+      }
+    ]
+  }
+}

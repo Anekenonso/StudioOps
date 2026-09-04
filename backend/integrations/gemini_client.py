@@ -50,7 +50,8 @@ class GeminiClient:
             # Attempt to call Vertex AI TextGenerationModel for planning
             try:
                 prompt = (
-                    f"Generate a JSON array of concise research queries for this production brief:\nTitle: {brief.title}\nGenre: {brief.genre}\nGeography: {brief.geography}\nDescription: {brief.description}\nReturn: {\"research_tasks\": [{\"id\": \"..\", \"query\": \"...\"}]}"
+                    f"Generate a JSON array of concise research queries for this production brief:\nTitle: {brief.title}\nGenre: {brief.genre}\nGeography: {brief.geography}\nDescription: {brief.description}\n"
+                    + '{"research_tasks": [{"id": "..", "query": "..."}]}'
                 )
                 model = TextGenerationModel.from_pretrained(self.model)
                 resp = model.predict(prompt, max_output_tokens=512)
@@ -83,7 +84,7 @@ class GeminiClient:
 
                 evidence_text = "\n".join([f"- {g.get('query')}: {len(g.get('results', []))} results" for g in evidence_groups])
                 prompt = (
-                    f"Using the supplied evidence summaries, produce a JSON object with keys: executive_summary, comparable_titles (array), market_signals (array), production_intelligence (array), risks (array), next_steps (array), sources (array of {\"title\", \"url\"}).\\n"
+                    f"Using the supplied evidence summaries, produce a JSON object with keys: executive_summary, comparable_titles (array), market_signals (array), production_intelligence (array), risks (array), next_steps (array), sources (array of title,url).\n"
                     f"Brief:\nTitle: {brief.title}\nGenre: {brief.genre}\nGeography: {brief.geography}\nDescription: {brief.description}\nEvidence summary:\n{evidence_text}\n"
                 )
                 model = TextGenerationModel.from_pretrained(self.model)
