@@ -55,3 +55,33 @@ The `GeminiClient` will attempt to use `TextGenerationModel` from the
 `google-cloud-aiplatform` package when available, and falls back to the
 local planner/synthesizer stubs if not configured.
 
+Secrets & key rotation
+
+If a secret (API key or credential) was accidentally committed, rotate
+it immediately and avoid keeping secrets in the repository. Recommended
+steps:
+
+1. Create a local `.env` from `.env.example` and add your real secrets
+	there. Do NOT commit `.env`.
+
+```bash
+cp .env.example .env
+# Edit .env and set PARALLEL_API_KEY and other values
+```
+
+2. Add the secret to your deployment/CI provider instead of committing
+	it. For GitHub Actions, go to repository Settings → Secrets → Actions
+	and add `PARALLEL_API_KEY` and any Google Cloud secrets.
+
+3. Rotate the exposed key at the provider (Parallel) console.
+
+4. (Optional) If the secret was pushed to a remote and you need to
+	remove it from history, use `git-filter-repo` or BFG to rewrite
+	history, then force-push and notify collaborators. This is invasive
+	— rotate the key first.
+
+Notes:
+- `.env` is included in `.gitignore` by default in this project.
+- `./.env.example` has been sanitized to remove any real keys.
+
+
