@@ -28,14 +28,13 @@ class DummyAsyncClient:
         return DummyResponse({"results": [{"title": "T1", "url": "http://a", "snippet": "s", "source": "S1", "score": 0.9}]})
 
 
-@pytest.mark.asyncio
-async def test_parallel_client_search_monkeypatch(monkeypatch):
+def test_parallel_client_search_monkeypatch(monkeypatch):
     # Patch httpx.AsyncClient to our dummy
     import backend.tools.parallel_client as pcmod
 
     monkeypatch.setattr(pcmod, "httpx", types.SimpleNamespace(AsyncClient=DummyAsyncClient))
 
     client = ParallelClient(api_key="key", base_url="https://example.com")
-    results = await client.search("test query")
+    results = asyncio.run(client.search("test query"))
     assert isinstance(results, list)
     assert results[0]["url"] == "http://a"
