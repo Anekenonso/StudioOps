@@ -103,6 +103,11 @@ export default function BriefForm() {
               </ul>
             </div>
           )}
+          {response.report_path_md && (
+            <div style={{marginTop:12}}>
+              <a href={response.report_path_md.replace(window.location.origin, '')} download>Download report (MD)</a>
+            </div>
+          )}
           <pre className="response">{JSON.stringify(response, null, 2)}</pre>
         </div>
       )}

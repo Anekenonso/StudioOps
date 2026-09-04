@@ -1,7 +1,8 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Query
 from backend.models.brief import ProjectBrief
 from backend.tools.parallel_client import ParallelClient
 from backend.integrations.gemini_client import GeminiClient
+from backend.tasks import adapter as task_adapter
 import os
 import asyncio
 
@@ -10,7 +11,7 @@ router = APIRouter()
 
 
 @router.post("/api/v1/research")
-async def start_research(brief: ProjectBrief):
+async def start_research(brief: ProjectBrief, background: bool = Query(False, description="If true, enqueue the research job (requires REDIS_URL)")):
     """Accept a production brief, create queries, run Parallel searches,
     and return normalized evidence per query.
     """
@@ -28,7 +29,13 @@ async def start_research(brief: ProjectBrief):
     except RuntimeError as exc:
         return {"status": "error", "message": str(exc)}
 
-    # Run searches concurrently
+    if background:
+        # Enqueue via adapter
+        brief_dict = brief.dict()
+        queued = task_adapter.enqueue_job(brief_dict)
+        return {"queued": True, "job": queued}
+
+    # Run searches concurrently inline
     async def run_query(q: str):
         try:
             results = await client.search(q)
@@ -47,7 +54,7 @@ async def start_research(brief: ProjectBrief):
     except Exception as e:
         report_data = {"error": f"synthesis failed: {e}"}
 
-    return {
+    result = {
         "status": "completed",
         "project": {
             "title": brief.title,
@@ -59,3 +66,24 @@ async def start_research(brief: ProjectBrief):
         "evidence": done,
         "report": report_data,
     }
+
+    # Persist report and expose paths
+    try:
+        from backend.tools.report_store import save_report_json, save_report_markdown
+
+        json_path = save_report_json(result)
+        md_path = save_report_markdown(result)
+        result["report_path_json"] = json_path
+        result["report_path_md"] = md_path
+    except Exception:
+        pass
+
+    return result
+
+
+
+@router.get("/api/v1/research/{job_id}")
+async def research_status(job_id: str):
+    """Get background job status/result."""
+    return task_adapter.get_job_result(job_id)
+
