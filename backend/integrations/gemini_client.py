@@ -41,6 +41,13 @@ class GeminiClient:
         self.location = location or os.getenv("GOOGLE_CLOUD_LOCATION")
         self.model = model or os.getenv("GEMINI_MODEL")
         self.available = _GCP_AVAILABLE and bool(self.project and self.model)
+        # Attempt to initialize aiplatform if available
+        if _GCP_AVAILABLE:
+            try:
+                aiplatform.init(project=self.project, location=self.location)
+            except Exception:
+                # initialization may fail in some environments; keep available flag conservative
+                pass
 
     async def plan(self, brief: ProjectBrief) -> Dict[str, Any]:
         """Return a research plan. If Gemini/Vertex is available, this
@@ -53,12 +60,32 @@ class GeminiClient:
                     f"Generate a JSON array of concise research queries for this production brief:\nTitle: {brief.title}\nGenre: {brief.genre}\nGeography: {brief.geography}\nDescription: {brief.description}\n"
                     + '{"research_tasks": [{"id": "..", "query": "..."}]}'
                 )
+                aiplatform.init(project=self.project, location=self.location)
                 model = TextGenerationModel.from_pretrained(self.model)
                 resp = model.predict(prompt, max_output_tokens=512)
-                # Attempt to parse JSON from response
+                # Attempt to parse JSON from response robustly
                 import json
 
-                text = resp.text if hasattr(resp, "text") else str(resp)
+                text = None
+                if hasattr(resp, "text"):
+                    text = resp.text
+                else:
+                    # try common shapes
+                    try:
+                        # some SDKs return PredictionResponse-like objects
+                        if hasattr(resp, "generations"):
+                            gens = resp.generations
+                            if isinstance(gens, list) and gens:
+                                gen = gens[0]
+                                if isinstance(gen, list) and gen:
+                                    text = gen[0].text
+                                elif hasattr(gen, "text"):
+                                    text = gen.text
+                        if text is None and isinstance(resp, (list, dict)):
+                            text = json.dumps(resp)
+                    except Exception:
+                        text = str(resp)
+
                 try:
                     parsed = json.loads(text)
                     return parsed
@@ -87,9 +114,28 @@ class GeminiClient:
                     f"Using the supplied evidence summaries, produce a JSON object with keys: executive_summary, comparable_titles (array), market_signals (array), production_intelligence (array), risks (array), next_steps (array), sources (array of title,url).\n"
                     f"Brief:\nTitle: {brief.title}\nGenre: {brief.genre}\nGeography: {brief.geography}\nDescription: {brief.description}\nEvidence summary:\n{evidence_text}\n"
                 )
+                aiplatform.init(project=self.project, location=self.location)
                 model = TextGenerationModel.from_pretrained(self.model)
                 resp = model.predict(prompt, max_output_tokens=1024)
-                text = resp.text if hasattr(resp, "text") else str(resp)
+                # robust extraction
+                text = None
+                if hasattr(resp, "text"):
+                    text = resp.text
+                else:
+                    try:
+                        if hasattr(resp, "generations"):
+                            gens = resp.generations
+                            if isinstance(gens, list) and gens:
+                                gen = gens[0]
+                                if isinstance(gen, list) and gen:
+                                    text = gen[0].text
+                                elif hasattr(gen, "text"):
+                                    text = gen.text
+                        if text is None and isinstance(resp, (list, dict)):
+                            text = json.dumps(resp)
+                    except Exception:
+                        text = str(resp)
+
                 try:
                     parsed = json.loads(text)
                     return parsed

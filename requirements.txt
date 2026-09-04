@@ -6,4 +6,5 @@ pytest
 pytest-asyncio
 python-dotenv
 rq
+google-cloud-aiplatform
 
