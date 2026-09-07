@@ -1,7 +1,3 @@
-.env
-__pycache__/
-*.pyc
-.venv/
 # Project specs
 StudioOps_V1_Master_Build_Specification.md
 StudioOps_V1_Technical_Build_Spec.md
@@ -13,13 +9,29 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+
+# Secrets — never commit real credentials
 .env
 .env.*
+gcp_service_account.json
+*.serviceaccount.json
+# ...but the sanitized templates are safe to track
+!.env.example
+!**/.env.example
+!**/.env.local.example
 
-# Editors
+# Generated reports
+outputs/
+
+# Node / Next.js
+node_modules/
+.next/
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+*.tsbuildinfo
+
+# Editors / OS
 .vscode/
 .DS_Store
-
-# OS
 Thumbs.db
-node_modules

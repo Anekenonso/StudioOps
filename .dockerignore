@@ -1,0 +1,20 @@
+# Keep the backend build context small and secret-free.
+.git
+.github
+.venv
+venv
+__pycache__
+**/__pycache__
+*.py[cod]
+.pytest_cache
+.env
+.env.*
+!.env.example
+gcp_service_account.json
+*.serviceaccount.json
+outputs
+frontend
+docs
+*.md
+!README.md
+node_modules

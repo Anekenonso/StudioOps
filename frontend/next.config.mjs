@@ -12,6 +12,9 @@ const backendOrigin = process.env.BACKEND_ORIGIN || 'http://127.0.0.1:8000'
 const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
+  // Emit a self-contained server bundle so the Docker runtime stage needs only
+  // the .next/standalone output, not the full node_modules tree.
+  output: 'standalone',
   async rewrites() {
     if (process.env.NEXT_PUBLIC_API_BASE_URL) return []
     return [
