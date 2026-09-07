@@ -1,0 +1,915 @@
+{
+  "status": "partial",
+  "run_id": "dea3136b95a4",
+  "project": {
+    "title": "Lagos After Dark",
+    "format": "Series",
+    "genre": "Crime Thriller",
+    "geography": "Nigeria / Africa",
+    "target_audience": "Young adults, Nigeria and African diaspora",
+    "researched_at": "2026-09-06T12:31:44.628546+00:00"
+  },
+  "plan": {
+    "reasoning": "Deterministic plan for a Crime Thriller series in Nigeria / Africa: comparables, market and audience demand, competition, production and distribution routes, and recent industry developments.",
+    "generated_by": "fallback",
+    "tasks": [
+      {
+        "id": "t1",
+        "category": "other",
+        "question": "What are comparable recent Nigerian or African crime thrillers and how did they perform?",
+        "query": "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa",
+        "label": "Searching industry publications",
+        "result_count": 6,
+        "duration_ms": 1426,
+        "evidence_ids": [
+          "S7",
+          "S26",
+          "S21",
+          "S23",
+          "S27",
+          "S5"
+        ],
+        "error": null
+      },
+      {
+        "id": "t2",
+        "category": "other",
+        "question": "Which streaming platforms are commissioning African scripted content?",
+        "query": "streaming platforms commissioning African scripted content Crime Thriller series Nigeria / Africa",
+        "label": "Searching industry publications",
+        "result_count": 4,
+        "duration_ms": 1195,
+        "evidence_ids": [
+          "S3",
+          "S4",
+          "S6",
+          "S24"
+        ],
+        "error": null
+      },
+      {
+        "id": "t3",
+        "category": "other",
+        "question": "Which production companies and Lagos locations are relevant?",
+        "query": "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa",
+        "label": "Searching industry publications",
+        "result_count": 6,
+        "duration_ms": 1521,
+        "evidence_ids": [
+          "S12",
+          "S15",
+          "S5",
+          "S10",
+          "S14",
+          "S16"
+        ],
+        "error": null
+      },
+      {
+        "id": "t4",
+        "category": "comparables",
+        "question": "Which recent titles are comparable to Lagos After Dark?",
+        "query": "recent Crime Thriller series released in Nigeria / Africa comparable titles",
+        "label": "Searching comparable titles",
+        "result_count": 4,
+        "duration_ms": 1677,
+        "evidence_ids": [
+          "S21",
+          "S7",
+          "S20",
+          "S30"
+        ],
+        "error": null
+      },
+      {
+        "id": "t5",
+        "category": "market",
+        "question": "What is the state of the Nigeria / Africa series market?",
+        "query": "Nigeria / Africa film and television industry market size box office series 2025 2026",
+        "label": "Searching market & industry data",
+        "result_count": 3,
+        "duration_ms": 926,
+        "evidence_ids": [
+          "S2",
+          "S1",
+          "S19"
+        ],
+        "error": null
+      },
+      {
+        "id": "t6",
+        "category": "audience",
+        "question": "What audience demand signals exist for this kind of project?",
+        "query": "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data",
+        "label": "Searching audience & demand signals",
+        "result_count": 6,
+        "duration_ms": 1222,
+        "evidence_ids": [
+          "S25",
+          "S29",
+          "S21",
+          "S8",
+          "S28",
+          "S22"
+        ],
+        "error": null
+      },
+      {
+        "id": "t7",
+        "category": "competition",
+        "question": "What competing content is already serving this audience?",
+        "query": "streaming platforms commissioning Crime Thriller series in Nigeria / Africa competition",
+        "label": "Searching the competitive landscape",
+        "result_count": 5,
+        "duration_ms": 933,
+        "evidence_ids": [
+          "S3",
+          "S6",
+          "S8",
+          "S4",
+          "S17"
+        ],
+        "error": null
+      },
+      {
+        "id": "t8",
+        "category": "production",
+        "question": "Which production companies and locations are relevant?",
+        "query": "Nigeria / Africa production companies producing Crime Thriller series film commission locations",
+        "label": "Searching production companies & locations",
+        "result_count": 4,
+        "duration_ms": 993,
+        "evidence_ids": [
+          "S13",
+          "S11",
+          "S18",
+          "S9"
+        ],
+        "error": null
+      }
+    ]
+  },
+  "report": {
+    "executive_summary": "Live web research for 'Lagos After Dark' retrieved 30 unique sources across 8 searches, covering market & industry data, industry publications, the competitive landscape, comparable titles, audience & demand signals, production companies & locations. Gemini synthesis did not run for this report, so the sources below are presented without analysis. Each entry links to the retrieved page. Leading publishers: statista.com, vitrina.ai, guardian.ng, afrocritik.com, showcaseafricaonline.com.",
+    "key_opportunities": [],
+    "comparable_titles": [
+      {
+        "evidence_ids": [
+          "S7"
+        ],
+        "title": "10 Nollywood Crime Thrillers That Will Keep You Guessing | Zikoko!",
+        "year": null,
+        "genre": null,
+        "market": "Nigeria / Africa",
+        "insight": "In this post, we’ve combined a list of the best Nollywood crime thrillers that will keep you at the edge of your seat.\n \n ## 1\\. _The Black Book_ (2024)\n \n **Running time** : 2h 4m\n \n **Director** : Editi Effiong\n \n In many ways, _The Black Book_ is Nigeria’s version of John Wick. It follows a deaco…"
+      },
+      {
+        "evidence_ids": [
+          "S20"
+        ],
+        "title": "Advanced search",
+        "year": null,
+        "genre": null,
+        "market": "Nigeria / Africa",
+        "insight": "Set in a Nigerian city Confusion Na Wa is a dark comedy about a group of strangers whose fates become intertwined over the course of 24 hours. At the heart of everything is a phone found by two opportunist wasters Charles and Chichi who, having"
+      },
+      {
+        "evidence_ids": [
+          "S21"
+        ],
+        "title": "Nigerian Series You Should Binge Watch on Netflix | Pulse Nigeria",
+        "year": null,
+        "genre": null,
+        "market": "Nigeria / Africa",
+        "insight": "### _**Shanty Town**_ **(2023)**\n\n_**Shanty Town**_ is a six-part Nigerian crime thriller that follows a group of courtesans attempting to escape the grasp of a notorious kingpin named Scar, but political corruption and blood ties make freedom a near-impossible goal.\n\nSet in the gritty underworld of…"
+      },
+      {
+        "evidence_ids": [
+          "S30"
+        ],
+        "title": "Top Nollywood and African TV Series to Watch in 2025 - NigeriaMag",
+        "year": null,
+        "genre": null,
+        "market": "Nigeria / Africa",
+        "insight": "As the stakes rise, the plot gets even more thrilling with unexpected twists that keep audiences at the edge of their seats. ... Another hit from Nigeria that took Netflix by storm is Blood Sisters."
+      }
+    ],
+    "market_signals": [
+      {
+        "evidence_ids": [
+          "S1"
+        ],
+        "signal": "Box Office - Africa | Statista Market Forecast",
+        "detail": "Local special circumstances:** In South Africa, the Box Office Market is shaped by a diverse cultural landscape that encourages the production of films in multiple languages, allowing filmmakers to connect with various demographic groups. In Nigeria, the booming Nollywood industry benefits from a vast youth population eager for relatable content, driving both local and international box office rev…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S2"
+        ],
+        "signal": "Box Office - Nigeria | Statista Market Forecast",
+        "detail": "Underlying macroeconomic factors:** The Box Office Market in Nigeria is significantly influenced by macroeconomic factors such as economic stability, consumer spending, and investment in infrastructure. As the national economy experiences growth, disposable income rises, enabling more audiences to frequent cinemas. Government fiscal policies that promote local film production and incentivize forei…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S19"
+        ],
+        "signal": "Nigerian box office eyes N20 billion revenue in 2026 - Report - Nairametrics",
+        "detail": "The West Africa Box Office Year Book 2025 projects the average ticket price to reach about N6,800 in 2026, reflecting both cost pass-through and a strategic shift toward premium cinema experiences.\n\n* The report shows that the number of cinemas in Nigeria increased from 91 in 2023 to 107 in 2024, before climbing to 122 in 2025, representing a 14% year-on-year increase. By 2026, the total number of…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S8"
+        ],
+        "signal": "All Eyes On Africa: Global Streamers & Local Players Are Toughing It Out In The Next Frontier Of Growth — Mipcom Cannes Special",
+        "detail": "As ever, the hope is that local ... and beyond to big territories like the U.S., UK and France. Nigerian crime thriller Blood Sisters also was a strong series for African audiences on the streamer.",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S21"
+        ],
+        "signal": "Nigerian Series You Should Binge Watch on Netflix | Pulse Nigeria",
+        "detail": "### _**Shanty Town**_ **(2023)**\n\n_**Shanty Town**_ is a six-part Nigerian crime thriller that follows a group of courtesans attempting to escape the grasp of a notorious kingpin named Scar, but political corruption and blood ties make freedom a near-impossible goal.\n\nSet in the gritty underworld of Lagos, the series exposes the lives of sex workers controlled by a ruthless handler and the dangero…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S22"
+        ],
+        "signal": "Africa's streaming war hinges on local content - Quartz",
+        "detail": "“Showmax’s audience prefers local content, with seven of the 10 most streamed titles in South Africa, eight of the top 10 titles in Kenya and Nigeria, and nine of the top 10 in Ghana last year being African. This has been a key driver of Showmax’s growth,” the streaming service’s CEO Yolisa Phahle tells Quartz. On the other hand, Netflix has since 2019 also been putting money behind African origin…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S3"
+        ],
+        "signal": "Top OTT Platforms In Africa 2026: Streaming Market Guide.",
+        "detail": "Nollywood content is its lifeblood—it’s commissioned more Nigerian drama than any other platform in history. If you’re selling Nigerian scripted series or Ghanaian formats, the Africa Magic → Showmax pipeline is the most efficient route to pan-African distribution you’ll find.\n\n### 8\\. iROKOtv — Nollywood’s Digital Home\n\n**Territory:** Nigeria and diaspora (UK, US, Canada). **Subscribers:** ~1 mil…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S4"
+        ],
+        "signal": "How Showmax redefined DNA of Nigerian storytelling",
+        "detail": "They asked, ‘What can only happen ... you get Crime & Justice Lagos feeling like Ikeja, not a copy of CSI,” he said. The numbers tell part of the story: from Ghana Jollof in 2021 to the 260th episode of Wura in 2026, Showmax commissioned dozens of titles and thousands of hours of Nigerian content “Showmax didn’t just want to be safe; they wanted to be distinctly Nigerian. They asked, ‘What can onl…",
+        "metric": null,
+        "trend": null
+      },
+      {
+        "evidence_ids": [
+          "S6"
+        ],
+        "signal": "Best Streaming Platforms for African Entertainment Content | Showcase Africa",
+        "detail": "Netflix spent $175 million on African production between 2016 and 2024, commissioning originals across South Africa, Nigeria, and Kenya. The platform offers mobile-only plans designed for African markets where data costs are a concern. Showmax partners with HBO and Comcast to deliver quality international content alongside over 1,300 hours of African originals, understanding local preferences bett…",
+        "metric": null,
+        "trend": null
+      }
+    ],
+    "audience_insights": [],
+    "competitive_landscape": [],
+    "production_opportunities": [
+      {
+        "evidence_ids": [
+          "S9"
+        ],
+        "title": "Nigeria’s Nile Entertainment, U.K.’s Action Xtreme Ink First-Look Deal to Co-Produce and Distribute Slate of Action Films and Series in Africa (EXCLUSIVE)",
+        "category": "partner",
+        "detail": "The companies will co-produce and distribute a slate of action films and series in Africa, starting with Lagos-set action-thriller 'Son of the Soil.'"
+      },
+      {
+        "evidence_ids": [
+          "S11"
+        ],
+        "title": "Film Production Companies in Africa: Complete Guide (2025)",
+        "category": "partner",
+        "detail": "Africa’s film industries—like Nollywood (Nigeria), Riverwood (Kenya), and burgeoning scenes in South Africa, Egypt, Ghana, and Morocco—are experiencing unprecedented growth. \n Here’s why Africa is the hotbed for future productions:\n\n* Young, dynamic talent pools\n* Diverse, breathtaking filming locat…"
+      },
+      {
+        "evidence_ids": [
+          "S13"
+        ],
+        "title": "Film Productions Companies in Nigeria - The Location Guide",
+        "category": "partner",
+        "detail": "By clicking any link on this page you are giving your consent for us to set cookies.\n\nNO, give me more info OK, i agree\n\n[Home](https://www.thelocationguide.com) **/** [Nigeria](https://www.thelocationguide.com/film-vendor-directory-search//Nigeria) **/** [latest](https://www.thelocationguide.com/fi…"
+      }
+    ],
+    "risks": [],
+    "next_steps": [
+      {
+        "step": "Review the retrieved sources below",
+        "rationale": "They are the primary research output for this run."
+      },
+      {
+        "step": "Configure Gemini credentials and re-run to generate analysis",
+        "rationale": "Synthesis converts these sources into comparisons, risks, and recommendations."
+      }
+    ],
+    "evidence_gaps": [
+      "Gemini synthesis was unavailable, so this report contains retrieved evidence without analysis, comparison, or risk assessment."
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "title": "Box Office - Africa | Statista Market Forecast",
+        "url": "https://statista.com/outlook/amo/media/cinema/box-office/africa",
+        "publisher": "statista.com",
+        "published_date": null,
+        "snippet": "Local special circumstances:** In South Africa, the Box Office Market is shaped by a diverse cultural landscape that encourages the production of films in multiple languages, allowing filmmakers to connect with various demographic groups. In Nigeria, the booming Nollywood industry benefits from a vast youth population eager for relatable content, driving both local and international box office revenues. Morocco's cinema scene is influenced by its rich historical narratives and festivals that promote regional films, while Algeria faces regulatory challenges that can hinder film distribution, yet persists in fostering local storytelling that resonates with its audience. ** \n \nUnderlying macroeconomic factors:** The Box Office Market in Africa is significantly influenced by macroeconomic factors such as GDP growth, foreign investment, and currency fluctuations.",
+        "excerpts": [
+          "Local special circumstances:** In South Africa, the Box Office Market is shaped by a diverse cultural landscape that encourages the production of films in multiple languages, allowing filmmakers to connect with various demographic groups. In Nigeria, the booming Nollywood industry benefits from a vast youth population eager for relatable content, driving both local and international box office revenues. Morocco's cinema scene is influenced by its rich historical narratives and festivals that promote regional films, while Algeria faces regulatory challenges that can hinder film distribution, yet persists in fostering local storytelling that resonates with its audience. ** \n \nUnderlying macroeconomic factors:** The Box Office Market in Africa is significantly influenced by macroeconomic factors such as GDP growth, foreign investment, and currency fluctuations."
+        ],
+        "categories": [
+          "market"
+        ],
+        "queries": [
+          "Nigeria / Africa film and television industry market size box office series 2025 2026"
+        ],
+        "relevance": 0.85
+      },
+      {
+        "id": "S2",
+        "title": "Box Office - Nigeria | Statista Market Forecast",
+        "url": "https://statista.com/outlook/amo/media/cinema/box-office/nigeria",
+        "publisher": "statista.com",
+        "published_date": null,
+        "snippet": "Underlying macroeconomic factors:** The Box Office Market in Nigeria is significantly influenced by macroeconomic factors such as economic stability, consumer spending, and investment in infrastructure. As the national economy experiences growth, disposable income rises, enabling more audiences to frequent cinemas. Government fiscal policies that promote local film production and incentivize foreign investment play a crucial role in strengthening the industry. Additionally, the global trend towards digital streaming is reshaping viewing habits, prompting traditional cinemas to innovate their offerings. Exchange rate fluctuations also impact the cost of film distribution and production, further influencing market dynamics.\n\n## Users\n\n### Viewers\n\n### Penetration Rate\n\n## Global Comparison\n\n### Revenue Comparison\n\n### User Penetration Comparison\n\n## Methodology\n\n**Data coverage:**\n\nThe data encompasses B2C enterprises.",
+        "excerpts": [
+          "Underlying macroeconomic factors:** The Box Office Market in Nigeria is significantly influenced by macroeconomic factors such as economic stability, consumer spending, and investment in infrastructure. As the national economy experiences growth, disposable income rises, enabling more audiences to frequent cinemas. Government fiscal policies that promote local film production and incentivize foreign investment play a crucial role in strengthening the industry. Additionally, the global trend towards digital streaming is reshaping viewing habits, prompting traditional cinemas to innovate their offerings. Exchange rate fluctuations also impact the cost of film distribution and production, further influencing market dynamics.\n\n## Users\n\n### Viewers\n\n### Penetration Rate\n\n## Global Comparison\n\n### Revenue Comparison\n\n### User Penetration Comparison\n\n## Methodology\n\n**Data coverage:**\n\nThe data encompasses B2C enterprises."
+        ],
+        "categories": [
+          "market"
+        ],
+        "queries": [
+          "Nigeria / Africa film and television industry market size box office series 2025 2026"
+        ],
+        "relevance": 0.85
+      },
+      {
+        "id": "S3",
+        "title": "Top OTT Platforms In Africa 2026: Streaming Market Guide.",
+        "url": "https://vitrina.ai/blog/top-ott-platforms-africa-2026",
+        "publisher": "vitrina.ai",
+        "published_date": "2026-07-17",
+        "snippet": "Nollywood content is its lifeblood—it’s commissioned more Nigerian drama than any other platform in history. If you’re selling Nigerian scripted series or Ghanaian formats, the Africa Magic → Showmax pipeline is the most efficient route to pan-African distribution you’ll find.\n\n### 8\\. iROKOtv — Nollywood’s Digital Home\n\n**Territory:** Nigeria and diaspora (UK, US, Canada). **Subscribers:** ~1 million active. **Verdict:** The specialist platform with global diaspora reach—and a deal appetite that favors Nigerian IP owners directly.\n\n**iROKOtv** pioneered the Nollywood streaming model a decade ago. Its founder, **Jason Njoku** , built a platform specifically for African diaspora audiences who couldn’t access local content abroad. The business model has evolved—they’re now co-producing originals rather than just aggregating catalogue—but their **diaspora distribution moat** is real. If you’re pitching Netflix Africa, your deck needs a clear reason why this story only works in Africa. No generic crime procedural. No diaspora-as-afterthought positioning.\n\n### 3\\. Prime Video Africa — Scaling Quietly\n\n**Territory:** 20+ African territories. **Subscribers:** Bundled with Prime (est. 4 million+). **Verdict:** Underrated acquisition target—less competition than Netflix, genuine commissioning appetite.\n\nAmazon’s Prime Video has been quietly building an African slate without the fanfare Netflix generates. That’s actually your advantage. There’s **less noise at the door** . They backed Ugandan filmmaker Loukman Ali’s \\*The Delivery Boy\\* and have production partnerships in South Africa and Nigeria. Their commissioning brief in 2025-2026 skews toward action, thriller, and youth-facing unscripted—which means your Nollywood-adjacent crime drama or reality format may actually land here before it lands at Netflix.\n\n### 4\\. Canal+ Africa — The Francophone Sovereign Play",
+        "excerpts": [
+          "Nollywood content is its lifeblood—it’s commissioned more Nigerian drama than any other platform in history. If you’re selling Nigerian scripted series or Ghanaian formats, the Africa Magic → Showmax pipeline is the most efficient route to pan-African distribution you’ll find.\n\n### 8\\. iROKOtv — Nollywood’s Digital Home\n\n**Territory:** Nigeria and diaspora (UK, US, Canada). **Subscribers:** ~1 million active. **Verdict:** The specialist platform with global diaspora reach—and a deal appetite that favors Nigerian IP owners directly.\n\n**iROKOtv** pioneered the Nollywood streaming model a decade ago. Its founder, **Jason Njoku** , built a platform specifically for African diaspora audiences who couldn’t access local content abroad. The business model has evolved—they’re now co-producing originals rather than just aggregating catalogue—but their **diaspora distribution moat** is real.",
+          "If you’re pitching Netflix Africa, your deck needs a clear reason why this story only works in Africa. No generic crime procedural. No diaspora-as-afterthought positioning.\n\n### 3\\. Prime Video Africa — Scaling Quietly\n\n**Territory:** 20+ African territories. **Subscribers:** Bundled with Prime (est. 4 million+). **Verdict:** Underrated acquisition target—less competition than Netflix, genuine commissioning appetite.\n\nAmazon’s Prime Video has been quietly building an African slate without the fanfare Netflix generates. That’s actually your advantage. There’s **less noise at the door** . They backed Ugandan filmmaker Loukman Ali’s \\*The Delivery Boy\\* and have production partnerships in South Africa and Nigeria. Their commissioning brief in 2025-2026 skews toward action, thriller, and youth-facing unscripted—which means your Nollywood-adjacent crime drama or reality format may actually land here before it lands at Netflix.\n\n### 4\\. Canal+ Africa — The Francophone Sovereign Play"
+        ],
+        "categories": [
+          "other",
+          "competition"
+        ],
+        "queries": [
+          "streaming platforms commissioning African scripted content Crime Thriller series Nigeria / Africa",
+          "streaming platforms commissioning Crime Thriller series in Nigeria / Africa competition"
+        ],
+        "relevance": 0.83
+      },
+      {
+        "id": "S4",
+        "title": "How Showmax redefined DNA of Nigerian storytelling",
+        "url": "https://guardian.ng/saturday-magazine/weekend-beats/how-showmax-redefined-dna-of-nigerian-storytelling",
+        "publisher": "guardian.ng",
+        "published_date": null,
+        "snippet": "They asked, ‘What can only happen ... you get Crime & Justice Lagos feeling like Ikeja, not a copy of CSI,” he said. The numbers tell part of the story: from Ghana Jollof in 2021 to the 260th episode of Wura in 2026, Showmax commissioned dozens of titles and thousands of hours of Nigerian content “Showmax didn’t just want to be safe; they wanted to be distinctly Nigerian. They asked, ‘What can only happen here?’ That’s how you get Crime & Justice Lagos feeling like Ikeja, not a copy of CSI,” he said.",
+        "excerpts": [
+          "They asked, ‘What can only happen ... you get Crime & Justice Lagos feeling like Ikeja, not a copy of CSI,” he said. The numbers tell part of the story: from Ghana Jollof in 2021 to the 260th episode of Wura in 2026, Showmax commissioned dozens of titles and thousands of hours of Nigerian content",
+          "“Showmax didn’t just want to be safe; they wanted to be distinctly Nigerian. They asked, ‘What can only happen here?’ That’s how you get Crime & Justice Lagos feeling like Ikeja, not a copy of CSI,” he said."
+        ],
+        "categories": [
+          "other",
+          "competition"
+        ],
+        "queries": [
+          "streaming platforms commissioning African scripted content Crime Thriller series Nigeria / Africa",
+          "streaming platforms commissioning Crime Thriller series in Nigeria / Africa competition"
+        ],
+        "relevance": 0.81
+      },
+      {
+        "id": "S5",
+        "title": "Four Nollywood Crime Thrillers to Stream After “Blood Sisters” (And Four Coming Soon) - Afrocritik",
+        "url": "https://afrocritik.com/four-nollywood-crime-thrillers-to-stream-after",
+        "publisher": "afrocritik.com",
+        "published_date": "2022-06-27",
+        "snippet": "The first installment, a crime and political thriller film which premiered in cinemas in October, 2018, follows Alhaja Eniola Salami ( [Sola Sobowale](https://afrocritik.com/?s=sola+sobowale) ), a businesswoman, entrepreneur and boss of the Lagos underworld as her political ambitions and struggle for power threatens everything that she loves. _King of Boys_ was so successful that it is [currently](https://thebingeful.com/highest-grossing-nigerian-films/#:~:text=King%20of%20Boys%20is%20next,Kemi%20Adetiba%20as%20the%20director) the sixth highest grossing movie of all time in Nigeria. For their roles in the film, Sobowale and [Adesua Etomi-Wellington](https://afrocritik.com/?s=adesua+etomi) won the Africa Movie Academy Awards (AMAA) for Best Actress in a Leading Role, and Best Actress in a Supporting Role respectively.\n\nThen, a sequel was made in the form of a 2021 Netflix series titled _King of Boys:_ [_The Return of the King_](https://afrocritik.com/review-king-of-boys-the-sequel/) .",
+        "excerpts": [
+          "The first installment, a crime and political thriller film which premiered in cinemas in October, 2018, follows Alhaja Eniola Salami ( [Sola Sobowale](https://afrocritik.com/?s=sola+sobowale) ), a businesswoman, entrepreneur and boss of the Lagos underworld as her political ambitions and struggle for power threatens everything that she loves. _King of Boys_ was so successful that it is [currently](https://thebingeful.com/highest-grossing-nigerian-films/#:~:text=King%20of%20Boys%20is%20next,Kemi%20Adetiba%20as%20the%20director) the sixth highest grossing movie of all time in Nigeria. For their roles in the film, Sobowale and [Adesua Etomi-Wellington](https://afrocritik.com/?s=adesua+etomi) won the Africa Movie Academy Awards (AMAA) for Best Actress in a Leading Role, and Best Actress in a Supporting Role respectively.\n\nThen, a sequel was made in the form of a 2021 Netflix series titled _King of Boys:_ [_The Return of the King_](https://afrocritik.com/review-king-of-boys-the-sequel/) ."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa",
+          "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.75
+      },
+      {
+        "id": "S6",
+        "title": "Best Streaming Platforms for African Entertainment Content | Showcase Africa",
+        "url": "https://showcaseafricaonline.com/posts/best-streaming-platforms-for-african-entertainment-content",
+        "publisher": "showcaseafricaonline.com",
+        "published_date": "2026-01-05",
+        "snippet": "Netflix spent $175 million on African production between 2016 and 2024, commissioning originals across South Africa, Nigeria, and Kenya. The platform offers mobile-only plans designed for African markets where data costs are a concern. Showmax partners with HBO and Comcast to deliver quality international content alongside over 1,300 hours of African originals, understanding local preferences better than any competitor.",
+        "excerpts": [
+          "Netflix spent $175 million on African production between 2016 and 2024, commissioning originals across South Africa, Nigeria, and Kenya. The platform offers mobile-only plans designed for African markets where data costs are a concern.",
+          "Showmax partners with HBO and Comcast to deliver quality international content alongside over 1,300 hours of African originals, understanding local preferences better than any competitor."
+        ],
+        "categories": [
+          "other",
+          "competition"
+        ],
+        "queries": [
+          "streaming platforms commissioning African scripted content Crime Thriller series Nigeria / Africa",
+          "streaming platforms commissioning Crime Thriller series in Nigeria / Africa competition"
+        ],
+        "relevance": 0.72
+      },
+      {
+        "id": "S7",
+        "title": "10 Nollywood Crime Thrillers That Will Keep You Guessing | Zikoko!",
+        "url": "https://zikoko.com/pop/nollywood-crime-thrillers-that-will-keep-you-guessing",
+        "publisher": "zikoko.com",
+        "published_date": "2026-04-30",
+        "snippet": "In this post, we’ve combined a list of the best Nollywood crime thrillers that will keep you at the edge of your seat.\n \n ## 1\\. _The Black Book_ (2024)\n \n **Running time** : 2h 4m\n \n **Director** : Editi Effiong\n \n In many ways, _The Black Book_ is Nigeria’s version of John Wick. It follows a deacon (Richard Mofe-Damijo) with a dark military past who goes on a rampage to clear his son’s name after his son is framed and killed by corrupt policemen.\n \n [Watch _The Black Book_ on Netflix.](https://www.netflix.com/watch/81698992?source=35)\n \n ## 2\\. _Gangs of Lagos_ (2023)\n \n **Running time** : 2h 4m\n \n **Director** : Jade Osiberu\n \n Set in the bustling streets of Isale Eko, Lagos, this film follows a group of childhood friends: Obalola (Tobi Bakre), Ify (Chike) and Gift (Adesua Etomi) as they navigate life and the treacherous waters of gang life and political puppeteering.\n \n [Watch _Gangs of Lagos_ on Prime Video.](https://app.primevideo.com/detail?gti=amzn1.",
+        "excerpts": [
+          "In this post, we’ve combined a list of the best Nollywood crime thrillers that will keep you at the edge of your seat.\n \n ## 1\\. _The Black Book_ (2024)\n \n **Running time** : 2h 4m\n \n **Director** : Editi Effiong\n \n In many ways, _The Black Book_ is Nigeria’s version of John Wick. It follows a deacon (Richard Mofe-Damijo) with a dark military past who goes on a rampage to clear his son’s name after his son is framed and killed by corrupt policemen.\n \n [Watch _The Black Book_ on Netflix.](https://www.netflix.com/watch/81698992?source=35)\n \n ## 2\\. _Gangs of Lagos_ (2023)\n \n **Running time** : 2h 4m\n \n **Director** : Jade Osiberu\n \n Set in the bustling streets of Isale Eko, Lagos, this film follows a group of childhood friends: Obalola (Tobi Bakre), Ify (Chike) and Gift (Adesua Etomi) as they navigate life and the treacherous waters of gang life and political puppeteering.\n \n [Watch _Gangs of Lagos_ on Prime Video.](https://app.primevideo.com/detail?gti=amzn1."
+        ],
+        "categories": [
+          "other",
+          "comparables"
+        ],
+        "queries": [
+          "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa",
+          "recent Crime Thriller series released in Nigeria / Africa comparable titles"
+        ],
+        "relevance": 0.72
+      },
+      {
+        "id": "S8",
+        "title": "All Eyes On Africa: Global Streamers & Local Players Are Toughing It Out In The Next Frontier Of Growth — Mipcom Cannes Special",
+        "url": "https://deadline.com/2023/10/mipcom-cannes-africa-streaming-1235568865",
+        "publisher": "deadline.com",
+        "published_date": null,
+        "snippet": "As ever, the hope is that local ... and beyond to big territories like the U.S., UK and France. Nigerian crime thriller Blood Sisters also was a strong series for African audiences on the streamer.",
+        "excerpts": [
+          "As ever, the hope is that local ... and beyond to big territories like the U.S., UK and France. Nigerian crime thriller Blood Sisters also was a strong series for African audiences on the streamer."
+        ],
+        "categories": [
+          "audience",
+          "competition"
+        ],
+        "queries": [
+          "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data",
+          "streaming platforms commissioning Crime Thriller series in Nigeria / Africa competition"
+        ],
+        "relevance": 0.71
+      },
+      {
+        "id": "S9",
+        "title": "Nigeria’s Nile Entertainment, U.K.’s Action Xtreme Ink First-Look Deal to Co-Produce and Distribute Slate of Action Films and Series in Africa (EXCLUSIVE)",
+        "url": "https://variety.com/2025/film/global/nile-entertainment-action-xtreme-first-look-deal-1236510711",
+        "publisher": "variety.com",
+        "published_date": "2025-09-08",
+        "snippet": "The companies will co-produce and distribute a slate of action films and series in Africa, starting with Lagos-set action-thriller 'Son of the Soil.'",
+        "excerpts": [
+          "The companies will co-produce and distribute a slate of action films and series in Africa, starting with Lagos-set action-thriller 'Son of the Soil.'"
+        ],
+        "categories": [
+          "production"
+        ],
+        "queries": [
+          "Nigeria / Africa production companies producing Crime Thriller series film commission locations"
+        ],
+        "relevance": 0.71
+      },
+      {
+        "id": "S10",
+        "title": "Crime and Justice Lagos - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crime_and_Justice_Lagos",
+        "publisher": "en.wikipedia.org",
+        "published_date": "2026-04-08",
+        "snippet": "|The SSCU is called in to investigate a spate of missing bodies from the local mortuary after a family discovers that the body of their late mother was removed from the grave. |\n\n## Production and release\n\n[ [edit](https://en.wikipedia.org/w/index.php?title=Crime_and_Justice_Lagos&action=edit&section=5 \"Edit section: Production and release\") ]\n\nThe series executive producer is [Yinka Edward](https://en.wikipedia.org/wiki/Yinka_Edward \"Yinka Edward\") , with the help of producer Eustace Okwechime, co-producer Kola Munis, and director [Mak 'Kusare](https://en.wikipedia.org/wiki/Mak_'Kusare \"Mak 'Kusare\") . Crime and Justice Lagos was set in the formal capital of [Nigeria](https://en.wikipedia.org/wiki/Nigeria \"Nigeria\") , [Lagos State](https://en.wikipedia.org/wiki/Lagos_State \"Lagos State\") and released on [Showmax](https://en.wikipedia.org/wiki/Showmax \"Showmax\") on 8 December 2022, [[ 7 ]]() with the official premiere being held at Genesis Cinema, Maryland Lagos on December 6.\n\n...\n\ncom/eng/tvseries/7mnoya4c-crime-and-justice-lagos) at [Showmax](https://en.wikipedia.org/wiki/Showmax \"Showmax\")",
+        "excerpts": [
+          "|The SSCU is called in to investigate a spate of missing bodies from the local mortuary after a family discovers that the body of their late mother was removed from the grave. |\n\n## Production and release\n\n[ [edit](https://en.wikipedia.org/w/index.php?title=Crime_and_Justice_Lagos&action=edit&section=5 \"Edit section: Production and release\") ]\n\nThe series executive producer is [Yinka Edward](https://en.wikipedia.org/wiki/Yinka_Edward \"Yinka Edward\") , with the help of producer Eustace Okwechime, co-producer Kola Munis, and director [Mak 'Kusare](https://en.wikipedia.org/wiki/Mak_'Kusare \"Mak 'Kusare\") . Crime and Justice Lagos was set in the formal capital of [Nigeria](https://en.wikipedia.org/wiki/Nigeria \"Nigeria\") , [Lagos State](https://en.wikipedia.org/wiki/Lagos_State \"Lagos State\") and released on [Showmax](https://en.wikipedia.org/wiki/Showmax \"Showmax\") on 8 December 2022, [[ 7 ]]() with the official premiere being held at Genesis Cinema, Maryland Lagos on December 6.\n\n...\n\ncom/eng/tvseries/7mnoya4c-crime-and-justice-lagos) at [Showmax](https://en.wikipedia.org/wiki/Showmax \"Showmax\")"
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.7
+      },
+      {
+        "id": "S11",
+        "title": "Film Production Companies in Africa: Complete Guide (2025)",
+        "url": "https://vitrina.ai/blog/discover-the-best-film-production-companies-in-africa-a-complete-guide",
+        "publisher": "vitrina.ai",
+        "published_date": "2026-05-16",
+        "snippet": "Africa’s film industries—like Nollywood (Nigeria), Riverwood (Kenya), and burgeoning scenes in South Africa, Egypt, Ghana, and Morocco—are experiencing unprecedented growth. \n Here’s why Africa is the hotbed for future productions:\n\n* Young, dynamic talent pools\n* Diverse, breathtaking filming locations\n* Lower production costs compared to Europe or North America\n* Government incentives and co-production treaties\n* Rising global interest in African narratives\n\nInternational giants like [Netflix](https://app.vitrina.ai/companydetails/4d99e40fe562f1eba18b192d570e861c9b98d1faf521a22f14e0c05b) , [Amazon Prime Video](https://app.vitrina.ai/companydetails/e2831b356c978176d0c4e631b26002ef24f6caf85812a26b7d44d37b) , and Disney+ are already investing heavily in African originals!\n\n## Top Film Production Companies in Africa\n\nHere’s a quick look at some of the standout production companies making waves:\n\n#### 1\\. [Rok Studios](https://app.vitrina.",
+        "excerpts": [
+          "Africa’s film industries—like Nollywood (Nigeria), Riverwood (Kenya), and burgeoning scenes in South Africa, Egypt, Ghana, and Morocco—are experiencing unprecedented growth. \n Here’s why Africa is the hotbed for future productions:\n\n* Young, dynamic talent pools\n* Diverse, breathtaking filming locations\n* Lower production costs compared to Europe or North America\n* Government incentives and co-production treaties\n* Rising global interest in African narratives\n\nInternational giants like [Netflix](https://app.vitrina.ai/companydetails/4d99e40fe562f1eba18b192d570e861c9b98d1faf521a22f14e0c05b) , [Amazon Prime Video](https://app.vitrina.ai/companydetails/e2831b356c978176d0c4e631b26002ef24f6caf85812a26b7d44d37b) , and Disney+ are already investing heavily in African originals!\n\n## Top Film Production Companies in Africa\n\nHere’s a quick look at some of the standout production companies making waves:\n\n#### 1\\. [Rok Studios](https://app.vitrina."
+        ],
+        "categories": [
+          "production"
+        ],
+        "queries": [
+          "Nigeria / Africa production companies producing Crime Thriller series film commission locations"
+        ],
+        "relevance": 0.7
+      },
+      {
+        "id": "S12",
+        "title": "Crime and Justice Lagos (TV Series 2022– ) - Filming & production - IMDb",
+        "url": "https://imdb.com/title/tt23847866/locations",
+        "publisher": "imdb.com",
+        "published_date": null,
+        "snippet": "Crime and Justice Lagos: When the SSCU (Serious & Special Crimes Unit) was set up by the Nigeria Police Force, it was in response to the peculiar challenges posed by the biggest, most densely populated and most diverse city in Africa - Lagos. Headed and nurtured by its charismatic boss, the calm, reassuring DCP Femi Biboye, the unit is made up of an elite team of top detectives, handpicked from the very best across the country.",
+        "excerpts": [
+          "Crime and Justice Lagos: When the SSCU (Serious & Special Crimes Unit) was set up by the Nigeria Police Force, it was in response to the peculiar challenges posed by the biggest, most densely populated and most diverse city in Africa - Lagos. Headed and nurtured by its charismatic boss, the calm, reassuring DCP Femi Biboye, the unit is made up of an elite team of top detectives, handpicked from the very best across the country."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.67
+      },
+      {
+        "id": "S13",
+        "title": "Film Productions Companies in Nigeria - The Location Guide",
+        "url": "https://thelocationguide.com/film-vendor-directory-search/Nigeria/all/latest",
+        "publisher": "thelocationguide.com",
+        "published_date": null,
+        "snippet": "By clicking any link on this page you are giving your consent for us to set cookies.\n\nNO, give me more info OK, i agree\n\n[Home](https://www.thelocationguide.com) **/** [Nigeria](https://www.thelocationguide.com/film-vendor-directory-search//Nigeria) **/** [latest](https://www.thelocationguide.com/film-vendor-directory-search//Nigeria\\all/latest)\n\n### Global Directory Reset\n\nCOUNTRY\n\n...\n\nuritius Mexico Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nepal Netherlands New Caledonia New Zealand Nicaragua Nigeria Norway Oman Pakistan Palestine Panama Paraguay Peru Philippines Poland Portugal Puerto Rico Qatar Romania Russia Rwanda San Marino Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia South Africa South Korea Spain Sri Lanka St Barts St Kitts & Nevis St Lucia St Martin St Vincent & the Grenadines Sweden Switzerland Tahiti Taiwan Tanzania Thailand Togo Tonga Trinidad & Tobago Tunisia Turkey Turks & Caicos Uganda Ukraine United Arab Emirates United Kingdom United States of America Uruguay US Virgin Islands Uzbekistan Venezuela Vietnam Yemen Zambia Zanzibar Zimbabwe\n\nNigeria\n\nREGION\n\nSelect a region\n\nCATEGORY\n\nSelect a category Directors Of Photography Film Commissions Location Finders/ Scouts Production Companies Production Service Companies\n\n# # Film, Television & Commercial Production Services in latest, Nigeria",
+        "excerpts": [
+          "By clicking any link on this page you are giving your consent for us to set cookies.\n\nNO, give me more info OK, i agree\n\n[Home](https://www.thelocationguide.com) **/** [Nigeria](https://www.thelocationguide.com/film-vendor-directory-search//Nigeria) **/** [latest](https://www.thelocationguide.com/film-vendor-directory-search//Nigeria\\all/latest)\n\n### Global Directory Reset\n\nCOUNTRY\n\n...\n\nuritius Mexico Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nepal Netherlands New Caledonia New Zealand Nicaragua Nigeria Norway Oman Pakistan Palestine Panama Paraguay Peru Philippines Poland Portugal Puerto Rico Qatar Romania Russia Rwanda San Marino Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia South Africa South Korea Spain Sri Lanka St Barts St Kitts & Nevis St Lucia St Martin St Vincent & the Grenadines Sweden Switzerland Tahiti Taiwan Tanzania Thailand Togo Tonga Trinidad & Tobago Tunisia Turkey Turks & Caicos Uganda Ukraine United Arab Emirates United Kingdom United States of America Uruguay US Virgin Islands Uzbekistan Venezuela Vietnam Yemen Zambia Zanzibar Zimbabwe\n\nNigeria\n\nREGION\n\nSelect a region\n\nCATEGORY\n\nSelect a category Directors Of Photography Film Commissions Location Finders/ Scouts Production Companies Production Service Companies\n\n# # Film, Television & Commercial Production Services in latest, Nigeria"
+        ],
+        "categories": [
+          "production"
+        ],
+        "queries": [
+          "Nigeria / Africa production companies producing Crime Thriller series film commission locations"
+        ],
+        "relevance": 0.67
+      },
+      {
+        "id": "S14",
+        "title": "Prime Video Unveils Crime Drama ‘Gangs Of Lagos’ And ‘LOL: Last One Laughing Naija’ As First Nigerian Amazon Originals",
+        "url": "https://deadline.com/2022/08/amazon-prime-video-nigeria-originals-gangs-of-lagos-lol-1235085009/amp",
+        "publisher": "deadline.com",
+        "published_date": "2022-08-05",
+        "snippet": "Gangs of Lagos is billed as “a high-stakes, gritty, and hard-hitting action crime-thriller, with an authentic storyline centred on a group of friends who each have to navigate destiny, growing up on the bustling streets and neighbourhood of",
+        "excerpts": [
+          "Gangs of Lagos is billed as “a high-stakes, gritty, and hard-hitting action crime-thriller, with an authentic storyline centred on a group of friends who each have to navigate destiny, growing up on the bustling streets and neighbourhood of"
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.65
+      },
+      {
+        "id": "S15",
+        "title": "Crime and Justice Lagos (TV Series 2022– ) - IMDb",
+        "url": "https://imdb.com/title/tt23847866",
+        "publisher": "imdb.com",
+        "published_date": "2022-12-08",
+        "snippet": "Crime and Justice Lagos: With Folu Storms, Ibrahim Jammal, William Benson, Shamz Garuba. When the SSCU (Serious & Special Crimes Unit) was set up by the Nigeria Police Force, it was in response to the peculiar challenges posed by the biggest, most densely populated and most diverse city in Africa - Lagos.",
+        "excerpts": [
+          "Crime and Justice Lagos: With Folu Storms, Ibrahim Jammal, William Benson, Shamz Garuba. When the SSCU (Serious & Special Crimes Unit) was set up by the Nigeria Police Force, it was in response to the peculiar challenges posed by the biggest, most densely populated and most diverse city in Africa - Lagos."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.65
+      },
+      {
+        "id": "S16",
+        "title": "Gangs of Lagos (2023) Production Notes | SAMDB",
+        "url": "https://samdb.co.za/titleproductionnotes/2408",
+        "publisher": "samdb.co.za",
+        "published_date": null,
+        "snippet": "#### Jade Osiberu\n\nAward-winning Nigerian filmmaker, screenwriter, director, and producer Jadesola Osiberu. Following the directorial debut with Isoken, Jade quickly earned the well deserved recognition. She is the CEO and founder of Greoh Studios.\n\nJade pursued a master's degree in media and communications before deciding to transfer to filmmaking, which was her genuine calling. After joining the GTBank Digital Marketing team and launching Ndani TV, she rose to prominence. For Ndani TV, Jadesola has also developed and directed a variety of shows, including \"Gidi Up\" and \"The Juice.\"\n\nOsiberu started her production company, Tribe85 Productions, in 2017 with the goal of telling African stories to a global audience. In 2018, she was the focal point of the Scotland Nollywood Film Festival. Years after her work on Isoken, Jade is making a comeback to the director's chair with Gangs of Lagos.\n\n[Facebook](https://www.facebook.com/samoviedatabase/) | [X / Twitter](https://x.",
+        "excerpts": [
+          "#### Jade Osiberu\n\nAward-winning Nigerian filmmaker, screenwriter, director, and producer Jadesola Osiberu. Following the directorial debut with Isoken, Jade quickly earned the well deserved recognition. She is the CEO and founder of Greoh Studios.\n\nJade pursued a master's degree in media and communications before deciding to transfer to filmmaking, which was her genuine calling. After joining the GTBank Digital Marketing team and launching Ndani TV, she rose to prominence. For Ndani TV, Jadesola has also developed and directed a variety of shows, including \"Gidi Up\" and \"The Juice.\"\n\nOsiberu started her production company, Tribe85 Productions, in 2017 with the goal of telling African stories to a global audience. In 2018, she was the focal point of the Scotland Nollywood Film Festival. Years after her work on Isoken, Jade is making a comeback to the director's chair with Gangs of Lagos.\n\n[Facebook](https://www.facebook.com/samoviedatabase/) | [X / Twitter](https://x."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "production companies and Lagos locations relevant Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.65
+      },
+      {
+        "id": "S17",
+        "title": "12 African Series You May Have Missed in 2023 - Afrocritik",
+        "url": "https://afrocritik.com/12-african-series-you-may-have-missed-in-2023",
+        "publisher": "afrocritik.com",
+        "published_date": "2023-12-22",
+        "snippet": "Created by Yinka Edward, _Crime and Justice Lagos_ follows the operations of the fictional Serious and Special Crimes Unit with Superintendents Kelechi (Folu Storms) and Danladi (Jammal Ibrahim) as they trail variant crime and criminals in the bustling Nigerian commercial capital of Lagos, ensuring that justice is meted out.\n\nThe six-episode series shines with its simple dialogue, relatable plot, and excellent cinematography. The series tries to subtly challenge various stereotypes surrounding the police by portraying a society where crime is regular but investigation and justice is a consistent occurrence. So good was the series that it clinched two awards for Best Picture Editor and Best Television Series at the 2023 Africa Magic Viewers’ Choice Awards.\n\n_Crime and Justice Lagos_ is available on [Showmax](https://www.showmax.com/eng/tvseries/7mnoya4c-crime-and-justice-lagos) .\n\n**Magenta Coal**",
+        "excerpts": [
+          "Created by Yinka Edward, _Crime and Justice Lagos_ follows the operations of the fictional Serious and Special Crimes Unit with Superintendents Kelechi (Folu Storms) and Danladi (Jammal Ibrahim) as they trail variant crime and criminals in the bustling Nigerian commercial capital of Lagos, ensuring that justice is meted out.\n\nThe six-episode series shines with its simple dialogue, relatable plot, and excellent cinematography. The series tries to subtly challenge various stereotypes surrounding the police by portraying a society where crime is regular but investigation and justice is a consistent occurrence. So good was the series that it clinched two awards for Best Picture Editor and Best Television Series at the 2023 Africa Magic Viewers’ Choice Awards.\n\n_Crime and Justice Lagos_ is available on [Showmax](https://www.showmax.com/eng/tvseries/7mnoya4c-crime-and-justice-lagos) .\n\n**Magenta Coal**"
+        ],
+        "categories": [
+          "competition"
+        ],
+        "queries": [
+          "streaming platforms commissioning Crime Thriller series in Nigeria / Africa competition"
+        ],
+        "relevance": 0.64
+      },
+      {
+        "id": "S18",
+        "title": "Top 59 Film Production Companies in Nigeria (2026) | ensun",
+        "url": "https://ensun.io/search/film-production/nigeria",
+        "publisher": "ensun.io",
+        "published_date": null,
+        "snippet": "## Products and services for Film Production\n\nA selection of suitable products and services provided by verified companies according to your search.\n\nProduct: Video Production\n\nService\n\nVideo Production\n\nGo to product\n\nProduct: Film Equipment Rental\n\nService\n\nFilm Equipment Rental\n\nGo to product\n\nProduct: Film Fixers\n\nService\n\nFilm Fixers\n\nGo to product\n\nProduct: Location Scouting\n\nService\n\nLocation Scouting\n\nGo to product\n\n## Information about Film Production in Nigeria\n\nNavigating the Film Production industry in Nigeria requires an understanding of several key factors. One of the primary considerations is the regulatory environment, which involves compliance with the Nigerian Film and Video Censors Board (NFVCB) guidelines that govern content approval and distribution. Moreover, the industry faces challenges such as inadequate infrastructure, limited access to funding, and piracy, which can hinder growth and profitability.\n\n...\n\nio/browse/companies)\n\n[](https://www.linkedin.com/company/ensun-gmbh) [](https://www.facebook.com/ensungmbh) [](https://www.instagram.com/ensun.gmbh/) [](https://twitter.com/ensun_gmbh) [](https://www.youtube.com/channel/UCaao7m7vTabbZ4nbiHlYQAw)\n\n[Imprint](https://ensun.io/en/imprint) • [Privacy](https://ensun.io/en/privacy) • Cookies • [Terms of use](https://ensun.io/en/terms-of-use) • [Contract for company takeover](https://ensun.io/en/contract-for-company-takeover)",
+        "excerpts": [
+          "## Products and services for Film Production\n\nA selection of suitable products and services provided by verified companies according to your search.\n\nProduct: Video Production\n\nService\n\nVideo Production\n\nGo to product\n\nProduct: Film Equipment Rental\n\nService\n\nFilm Equipment Rental\n\nGo to product\n\nProduct: Film Fixers\n\nService\n\nFilm Fixers\n\nGo to product\n\nProduct: Location Scouting\n\nService\n\nLocation Scouting\n\nGo to product\n\n## Information about Film Production in Nigeria\n\nNavigating the Film Production industry in Nigeria requires an understanding of several key factors. One of the primary considerations is the regulatory environment, which involves compliance with the Nigerian Film and Video Censors Board (NFVCB) guidelines that govern content approval and distribution. Moreover, the industry faces challenges such as inadequate infrastructure, limited access to funding, and piracy, which can hinder growth and profitability.\n\n...\n\nio/browse/companies)\n\n[](https://www.linkedin.com/company/ensun-gmbh) [](https://www.facebook.com/ensungmbh) [](https://www.instagram.com/ensun.gmbh/) [](https://twitter.com/ensun_gmbh) [](https://www.youtube.com/channel/UCaao7m7vTabbZ4nbiHlYQAw)\n\n[Imprint](https://ensun.io/en/imprint) • [Privacy](https://ensun.io/en/privacy) • Cookies • [Terms of use](https://ensun.io/en/terms-of-use) • [Contract for company takeover](https://ensun.io/en/contract-for-company-takeover)"
+        ],
+        "categories": [
+          "production"
+        ],
+        "queries": [
+          "Nigeria / Africa production companies producing Crime Thriller series film commission locations"
+        ],
+        "relevance": 0.64
+      },
+      {
+        "id": "S19",
+        "title": "Nigerian box office eyes N20 billion revenue in 2026 - Report - Nairametrics",
+        "url": "https://nairametrics.com/2026/02/03/nigerian-box-office-eyes-n20-billion-revenue-in-2026-report",
+        "publisher": "nairametrics.com",
+        "published_date": "2026-02-03",
+        "snippet": "The West Africa Box Office Year Book 2025 projects the average ticket price to reach about N6,800 in 2026, reflecting both cost pass-through and a strategic shift toward premium cinema experiences.\n\n* The report shows that the number of cinemas in Nigeria increased from 91 in 2023 to 107 in 2024, before climbing to 122 in 2025, representing a 14% year-on-year increase. By 2026, the total number of cinema locations is projected to reach 135. Although this reflects continued growth, it also suggests that the market is approaching a more mature phase where scale alone is no longer the primary driver of performance.\n\n#### **Backstory**\n\nThe projection builds on a strong close to 2025 for the wider West African film market. Data from FilmOne Entertainment released on January 6, 2026, [shows that the region ended 2025 with N15.6 billion in box office revenue](https://nairametrics.com/2026/01/06/west-africa-box-office-grosses-n15-6-billion-in-2025/) . The market recorded 2.",
+        "excerpts": [
+          "The West Africa Box Office Year Book 2025 projects the average ticket price to reach about N6,800 in 2026, reflecting both cost pass-through and a strategic shift toward premium cinema experiences.\n\n* The report shows that the number of cinemas in Nigeria increased from 91 in 2023 to 107 in 2024, before climbing to 122 in 2025, representing a 14% year-on-year increase. By 2026, the total number of cinema locations is projected to reach 135. Although this reflects continued growth, it also suggests that the market is approaching a more mature phase where scale alone is no longer the primary driver of performance.\n\n#### **Backstory**\n\nThe projection builds on a strong close to 2025 for the wider West African film market. Data from FilmOne Entertainment released on January 6, 2026, [shows that the region ended 2025 with N15.6 billion in box office revenue](https://nairametrics.com/2026/01/06/west-africa-box-office-grosses-n15-6-billion-in-2025/) . The market recorded 2."
+        ],
+        "categories": [
+          "market"
+        ],
+        "queries": [
+          "Nigeria / Africa film and television industry market size box office series 2025 2026"
+        ],
+        "relevance": 0.61
+      },
+      {
+        "id": "S20",
+        "title": "Advanced search",
+        "url": "https://imdb.com/search/title?title_type=feature,tv_series,tv_movie&genres=crime,drama&countries=NG&explore=title_type,genres,year,countries&view=advanced",
+        "publisher": "imdb.com",
+        "published_date": null,
+        "snippet": "Set in a Nigerian city Confusion Na Wa is a dark comedy about a group of strangers whose fates become intertwined over the course of 24 hours. At the heart of everything is a phone found by two opportunist wasters Charles and Chichi who, having",
+        "excerpts": [
+          "Set in a Nigerian city Confusion Na Wa is a dark comedy about a group of strangers whose fates become intertwined over the course of 24 hours. At the heart of everything is a phone found by two opportunist wasters Charles and Chichi who, having"
+        ],
+        "categories": [
+          "comparables"
+        ],
+        "queries": [
+          "recent Crime Thriller series released in Nigeria / Africa comparable titles"
+        ],
+        "relevance": 0.6
+      },
+      {
+        "id": "S21",
+        "title": "Nigerian Series You Should Binge Watch on Netflix | Pulse Nigeria",
+        "url": "https://pulse.ng/story/nigerian-series-you-should-binge-watch-on-netflix-2025101712290718863",
+        "publisher": "pulse.ng",
+        "published_date": "2025-12-05",
+        "snippet": "### _**Shanty Town**_ **(2023)**\n\n_**Shanty Town**_ is a six-part Nigerian crime thriller that follows a group of courtesans attempting to escape the grasp of a notorious kingpin named Scar, but political corruption and blood ties make freedom a near-impossible goal.\n\nSet in the gritty underworld of Lagos, the series exposes the lives of sex workers controlled by a ruthless handler and the dangerous world they inhabit.\n\nThe story centres on _Shanty Town,_ a town for drug dealers, prostitutes, and thugs, where crime has its throne. When captives that Scar supposedly sets free are discovered to be missing from existence, some of the Lagos hustlers he's held captive decide to unite and wage war against him.\n\nAdvertisement\n\nAdvertisement\n\nIf you're drawn to dark, unflinching crime dramas that don't sugarcoat harsh realities, Shanty Town is your show.",
+        "excerpts": [
+          "### _**Shanty Town**_ **(2023)**\n\n_**Shanty Town**_ is a six-part Nigerian crime thriller that follows a group of courtesans attempting to escape the grasp of a notorious kingpin named Scar, but political corruption and blood ties make freedom a near-impossible goal.\n\nSet in the gritty underworld of Lagos, the series exposes the lives of sex workers controlled by a ruthless handler and the dangerous world they inhabit.\n\nThe story centres on _Shanty Town,_ a town for drug dealers, prostitutes, and thugs, where crime has its throne. When captives that Scar supposedly sets free are discovered to be missing from existence, some of the Lagos hustlers he's held captive decide to unite and wage war against him.\n\nAdvertisement\n\nAdvertisement\n\nIf you're drawn to dark, unflinching crime dramas that don't sugarcoat harsh realities, Shanty Town is your show."
+        ],
+        "categories": [
+          "other",
+          "comparables",
+          "audience"
+        ],
+        "queries": [
+          "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa",
+          "recent Crime Thriller series released in Nigeria / Africa comparable titles",
+          "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data"
+        ],
+        "relevance": 0.6
+      },
+      {
+        "id": "S22",
+        "title": "Africa's streaming war hinges on local content - Quartz",
+        "url": "https://qz.com/africas-streaming-war-hinges-on-local-content-1850121200",
+        "publisher": "qz.com",
+        "published_date": null,
+        "snippet": "“Showmax’s audience prefers local content, with seven of the 10 most streamed titles in South Africa, eight of the top 10 titles in Kenya and Nigeria, and nine of the top 10 in Ghana last year being African. This has been a key driver of Showmax’s growth,” the streaming service’s CEO Yolisa Phahle tells Quartz. On the other hand, Netflix has since 2019 also been putting money behind African originals. Among them are the star-studded reality show Young, Famous and African featuring celebrities from across the continent, teen crime drama Blood and Water and Queen Sono, another crime drama, among several other titles.",
+        "excerpts": [
+          "“Showmax’s audience prefers local content, with seven of the 10 most streamed titles in South Africa, eight of the top 10 titles in Kenya and Nigeria, and nine of the top 10 in Ghana last year being African. This has been a key driver of Showmax’s growth,” the streaming service’s CEO Yolisa Phahle tells Quartz. On the other hand, Netflix has since 2019 also been putting money behind African originals. Among them are the star-studded reality show Young, Famous and African featuring celebrities from across the continent, teen crime drama Blood and Water and Queen Sono, another crime drama, among several other titles."
+        ],
+        "categories": [
+          "audience"
+        ],
+        "queries": [
+          "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data"
+        ],
+        "relevance": 0.59
+      },
+      {
+        "id": "S23",
+        "title": "AFRIFF 2024 to open with crime thriller 'Headless,' spotlighting African cinema's global rise - The Lagos Review",
+        "url": "https://thelagosreview.ng/afriff-2024-to-open-with-crime-thriller-headless-spotlighting-african-cinemas-global-rise",
+        "publisher": "thelagosreview.ng",
+        "published_date": "2026-09-04",
+        "snippet": "The selection exemplifies AFRIFF’s commitment to showcasing how African filmmakers can maintain cultural authenticity while creating universally resonant content.\n\n“African filmmaking is rapidly evolving, and Nigeria is at its core. With films like _Headless_ , we aim to showcase how African stories can stay true to cultural roots while resonating globally,” Ude stated.\n\nThe festival’s closing night will feature _Out of Breath_ by Obi Emelonye, a film that weaves Igbo cultural elements with contemporary storytelling techniques, demonstrating the festival’s theme in action.\n\nAFRIFF’s growing international influence was recently highlighted during its participation at UNGA 79 in New York, where industry leaders gathered to discuss strategies for leveraging Nigeria’s creative potential. The festival has also expanded its impact through initiatives like the AFRIFF Academy, which has partnered with the University of Creative Art to nurture emerging talent.",
+        "excerpts": [
+          "The selection exemplifies AFRIFF’s commitment to showcasing how African filmmakers can maintain cultural authenticity while creating universally resonant content.\n\n“African filmmaking is rapidly evolving, and Nigeria is at its core. With films like _Headless_ , we aim to showcase how African stories can stay true to cultural roots while resonating globally,” Ude stated.\n\nThe festival’s closing night will feature _Out of Breath_ by Obi Emelonye, a film that weaves Igbo cultural elements with contemporary storytelling techniques, demonstrating the festival’s theme in action.\n\nAFRIFF’s growing international influence was recently highlighted during its participation at UNGA 79 in New York, where industry leaders gathered to discuss strategies for leveraging Nigeria’s creative potential. The festival has also expanded its impact through initiatives like the AFRIFF Academy, which has partnered with the University of Creative Art to nurture emerging talent."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.58
+      },
+      {
+        "id": "S24",
+        "title": "How streaming is revolutionizing Africa’s film industry | CNN",
+        "url": "https://cnn.com/world/africa/streaming-revolutionizing-africa-film-industry-spc",
+        "publisher": "cnn.com",
+        "published_date": "2025-10-31",
+        "snippet": "South Africa has become one of Netflix’s global production hubs, largely because of infrastructure like studio spaces and the “high standard” of local production crews, says Kaye-Ann Williams, director of scripted content for Netflix Africa.",
+        "excerpts": [
+          "South Africa has become one of Netflix’s global production hubs, largely because of infrastructure like studio spaces and the “high standard” of local production crews, says Kaye-Ann Williams, director of scripted content for Netflix Africa."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "streaming platforms commissioning African scripted content Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.57
+      },
+      {
+        "id": "S25",
+        "title": "Macro- and micro- trends in African demand for series in Q1 2021 | Parrot Analytics",
+        "url": "https://parrotanalytics.com/insights/macro-and-micro-trends-in-african-demand-for-series-in-q1-2021",
+        "publisher": "parrotanalytics.com",
+        "published_date": null,
+        "snippet": "This reflects the fact that while their perspective may be African, children's content can have very universal themes.\n\nWe will now take an in-depth look at trends in three of the most important markets in Africa: Nigeria, South Africa and Egypt\n\n# Market trends: Nigeria\n\nQuick summary: Nigeria is one of the fastest growing countries in the world, projected to reach 400 million inhabitants in 2050. The young population here is boosting demand for children’s series compared to the African average, but audiences here show lower-than-usual interest in drama series.\n\n# Which genres are Nigerian audiences demanding? (all titles)\n\nQ12021Africa_4.png\n\n* Nigerian audience express high demand for children's series. The 14.0% demand share for this genre is the highest in the region. The most demanded children's series for this quarter is _PJ Masks_ .\n* Nigeria also has strong demand for variety series. The genre's 5.9% demand share here is an impressive +3.7% more than the Africa average.",
+        "excerpts": [
+          "This reflects the fact that while their perspective may be African, children's content can have very universal themes.\n\nWe will now take an in-depth look at trends in three of the most important markets in Africa: Nigeria, South Africa and Egypt\n\n# Market trends: Nigeria\n\nQuick summary: Nigeria is one of the fastest growing countries in the world, projected to reach 400 million inhabitants in 2050. The young population here is boosting demand for children’s series compared to the African average, but audiences here show lower-than-usual interest in drama series.\n\n# Which genres are Nigerian audiences demanding? (all titles)\n\nQ12021Africa_4.png\n\n* Nigerian audience express high demand for children's series. The 14.0% demand share for this genre is the highest in the region. The most demanded children's series for this quarter is _PJ Masks_ .\n* Nigeria also has strong demand for variety series. The genre's 5.9% demand share here is an impressive +3.7% more than the Africa average."
+        ],
+        "categories": [
+          "audience"
+        ],
+        "queries": [
+          "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data"
+        ],
+        "relevance": 0.56
+      },
+      {
+        "id": "S26",
+        "title": "A Beginner’s Guide to African Crime Fiction",
+        "url": "https://crimereads.com/a-beginners-guide-to-african-crime-fiction",
+        "publisher": "crimereads.com",
+        "published_date": "2020-01-09",
+        "snippet": "His son, always seeking his approval, does have the temperament and learns the skills to do so, but receives little recognition for his efforts from his philosophically-inclined father. We learn in the book’s opening line that the father is going to be murdered. The actual killing comes 400 gripping pages later. The mystery is around how and why the crime is committed. The book has been favorably compared to Cormac McCarthy’s _The Road_ and Stephen King’s _The Stand._\n\nMeyer’s police procedural/thrillers cover backstories rooted in the corruption of the apartheid-era government. _Dead before Dying_ and _Trackers_ have been made into a TV series, and his books have been published in over forty countries. In one of his series, he follows Benny Griessel as he reels from the overwhelming tensions of being a police detective in South Africa, lurching between alcohol addiction and his job.",
+        "excerpts": [
+          "His son, always seeking his approval, does have the temperament and learns the skills to do so, but receives little recognition for his efforts from his philosophically-inclined father. We learn in the book’s opening line that the father is going to be murdered. The actual killing comes 400 gripping pages later. The mystery is around how and why the crime is committed. The book has been favorably compared to Cormac McCarthy’s _The Road_ and Stephen King’s _The Stand._\n\nMeyer’s police procedural/thrillers cover backstories rooted in the corruption of the apartheid-era government. _Dead before Dying_ and _Trackers_ have been made into a TV series, and his books have been published in over forty countries. In one of his series, he follows Benny Griessel as he reels from the overwhelming tensions of being a police detective in South Africa, lurching between alcohol addiction and his job."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.55
+      },
+      {
+        "id": "S27",
+        "title": "African Book List Series: African Thriller Books | by Roving | Medium",
+        "url": "https://medium.com/@rovingthinkers/list-of-african-thrillers-5748e49f7dbf",
+        "publisher": "medium.com",
+        "published_date": "2024-03-22",
+        "snippet": "You probably have read many thrillers and wonder where are the African thrillers. You are not alone. I read Lightseekers and Easy Motion Tourist, and I started looking for other thrillers to read, in this case, add to my TBR. I found a treasure trove of them. I'll try to give you thirteen thrillers in this article. ... I love Femi Kayode for writing a part of Nigerian history that is not talked about, Jungle Justice.",
+        "excerpts": [
+          "You probably have read many thrillers and wonder where are the African thrillers. You are not alone. I read Lightseekers and Easy Motion Tourist, and I started looking for other thrillers to read, in this case, add to my TBR. I found a treasure trove of them. I'll try to give you thirteen thrillers in this article. ... I love Femi Kayode for writing a part of Nigerian history that is not talked about, Jungle Justice."
+        ],
+        "categories": [
+          "other"
+        ],
+        "queries": [
+          "comparable recent Nigerian or African crime thrillers and did they Crime Thriller series Nigeria / Africa"
+        ],
+        "relevance": 0.52
+      },
+      {
+        "id": "S28",
+        "title": "Showmax and Netflix battle for high-octane drama - African style - BBC News",
+        "url": "https://bbc.co.uk/news/world-africa-68450965",
+        "publisher": "bbc.co.uk",
+        "published_date": null,
+        "snippet": "Revenge thriller The Black Book, which it recently acquired, became the first ever Nigerian film to soar to number three on Netflix's worldwide film charts - watched by more than 20 million people in its opening weeks last year.",
+        "excerpts": [
+          "Revenge thriller The Black Book, which it recently acquired, became the first ever Nigerian film to soar to number three on Netflix's worldwide film charts - watched by more than 20 million people in its opening weeks last year."
+        ],
+        "categories": [
+          "audience"
+        ],
+        "queries": [
+          "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data"
+        ],
+        "relevance": 0.46
+      },
+      {
+        "id": "S29",
+        "title": "New Netflix thriller tackling theme of justice in Nigeria is a global hit and a boon for Nollywood | The Independent",
+        "url": "https://independent.co.uk/news/ap-nigeria-netflix-west-africa-english-b2433899.html",
+        "publisher": "independent.co.uk",
+        "published_date": null,
+        "snippet": "A Nigerian action thriller that tells a gripping story of corruption and police brutality in Africa’s most populous country has reached record viewership numbers on Netflix charts globally",
+        "excerpts": [
+          "A Nigerian action thriller that tells a gripping story of corruption and police brutality in Africa’s most populous country has reached record viewership numbers on Netflix charts globally"
+        ],
+        "categories": [
+          "audience"
+        ],
+        "queries": [
+          "Young adults, Nigeria and African diaspora audience demand for Crime Thriller series in Nigeria / Africa viewership data"
+        ],
+        "relevance": 0.46
+      },
+      {
+        "id": "S30",
+        "title": "Top Nollywood and African TV Series to Watch in 2025 - NigeriaMag",
+        "url": "https://nigeriamag.com/top-nollywood-and-african-tv-series-to-watch-in-2025",
+        "publisher": "nigeriamag.com",
+        "published_date": null,
+        "snippet": "As the stakes rise, the plot gets even more thrilling with unexpected twists that keep audiences at the edge of their seats. ... Another hit from Nigeria that took Netflix by storm is Blood Sisters.",
+        "excerpts": [
+          "As the stakes rise, the plot gets even more thrilling with unexpected twists that keep audiences at the edge of their seats. ... Another hit from Nigeria that took Netflix by storm is Blood Sisters."
+        ],
+        "categories": [
+          "comparables"
+        ],
+        "queries": [
+          "recent Crime Thriller series released in Nigeria / Africa comparable titles"
+        ],
+        "relevance": 0.46
+      }
+    ],
+    "section_notes": {
+      "audience_insights": {
+        "insufficient_evidence": true,
+        "note": "The retrieved research did not support findings for this section."
+      },
+      "competitive_landscape": {
+        "insufficient_evidence": true,
+        "note": "The retrieved research did not support findings for this section."
+      },
+      "risks": {
+        "insufficient_evidence": true,
+        "note": "The retrieved research did not support findings for this section."
+      }
+    },
+    "generated_by": "fallback"
+  },
+  "research_metadata": {
+    "queries_run": 8,
+    "queries_failed": 0,
+    "sources_reviewed": 38,
+    "unique_sources": 30,
+    "search_duration_ms": 3214,
+    "synthesis_duration_ms": 0,
+    "total_duration_ms": 3225,
+    "planner": "fallback",
+    "synthesizer": "fallback",
+    "warnings": [
+      "Gemini synthesis unavailable — report contains retrieved evidence without analysis. (No Gemini credentials. Set GEMINI_API_KEY, or GOOGLE_GENAI_USE_VERTEXAI=true with GOOGLE_CLOUD_PROJECT.)"
+    ]
+  },
+  "report_url_json": null,
+  "report_url_md": null,
+  "message": null
+}
